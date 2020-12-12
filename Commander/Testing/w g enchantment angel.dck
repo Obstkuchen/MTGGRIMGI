@@ -1,0 +1,87 @@
+1 [M12:19] Grand Abolisher
+1 [NPH:161] Sword of War and Peace
+1 [M11:4] Angelic Arbiter
+1 [THS:17] Heliod, God of the Sun
+1 [UDS:15] Replenish
+1 [JOU:145] Ajani, Mentor of Heroes
+1 [BNG:4] Archetype of Courage
+1 [AVR:6] Avacyn, Angel of Hope
+1 [THS:18] Heliod's Emissary
+1 [ARB:65] Behemoth Sledge
+1 [ORI:5] Auramancer
+1 [AVR:2] Angel of Jubilation
+1 [INV:229] Armadillo Cloak
+9 [RNA:260] Plains
+1 [6ED:269] Worldly Tutor
+1 [USG:325] Serra's Sanctum
+1 [MBS:138] Sword of Feast and Famine
+1 [BNG:148] Karametra, God of Harvests
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [NPH:17] Norn's Annex
+8 [RNA:264] Forest
+1 [BFZ:234] Canopy Vista
+1 [BFZ:29] Gideon, Ally of Zendikar
+1 [M14:3] Angelic Accord
+1 [ROE:33] Linvala, Keeper of Silence
+1 [JOU:1] Aegis of the Gods
+1 [THS:153] Bow of Nylea
+1 [6ED:19] Enlightened Tutor
+1 [INV:278] Sterling Grove
+1 [UDS:1] Academy Rector
+1 [E02:4] Shielded by Faith
+1 [BNG:119] Courser of Kruphix
+1 [BNG:116] Archetype of Endurance
+1 [RTR:24] Sphere of Safety
+1 [ZEN:6] Celestial Mantle
+1 [ORI:213] Citadel Castellan
+1 [BNG:24] Plea for Guidance
+1 [KLD:216] Ghirapur Orrery
+1 [THS:33] Spear of Heliod
+1 [M15:14] Heliod's Pilgrim
+1 [CHK:225] Kodama's Reach
+1 [JOU:122] Eidolon of Blossoms
+1 [SHM:278] Reflecting Pool
+1 [XLN:257] Sunpetal Grove
+1 [JUD:139] Mirari's Wake
+1 [OGW:147] Zendikar Resurgent
+1 [JUD:31] Unquestioned Authority
+1 [M19:254] Reliquary Tower
+1 [3ED:274] Sol Ring
+1 [RAV:251] Privileged Position
+1 [ROE:177] Bear Umbra
+1 [EMN:41] Sigarda's Aid
+1 [RIX:186] Evolving Wilds
+1 [AVR:226] Cavern of Souls
+1 [BNG:165] Temple of Plenty
+1 [ORI:31] Sigil of the Empty Throne
+1 [ORI:240] Sword of the Animist
+1 [FRF:166] Blossoming Sands
+1 [GRN:255] Selesnya Guildgate
+1 [SOM:110] Asceticism
+1 [JOU:18] Nyx-Fleece Ram
+1 [JUD:141] Krosan Verge
+1 [C18:240] Command Tower
+1 [ALA:1] Akrasan Squire
+1 [M12:3] Angelic Destiny
+1 [AKH:180] Prowling Serpopard
+1 [M11:28] Serra Ascendant
+1 [DOM:35] Shalai, Voice of Plenty
+1 [C16:301] Homeward Path
+1 [RAV:281] Selesnya Sanctuary
+1 [5DN:19] Steelshaper's Gift
+1 [ZEN:172] Oracle of Mul Daya
+1 [DTK:217] Dragonlord Dromoka
+1 [DST:148] Sword of Fire and Ice
+1 [DST:149] Sword of Light and Shadow
+1 [MOR:12] Idyllic Tutor
+1 [NPH:20] Puresteel Paladin
+1 [C15:1] Bastion Protector
+1 [ZEN:214] Graypelt Refuge
+1 [CHK:10] Ghostly Prison
+1 [DOM:179] Song of Freyalise
+1 [GRN:258] Temple Garden
+1 [THS:11] Evangel of Heliod
+1 [AVR:198] Triumph of Ferocity
+SB: 1 [PUMA:U25] Sigarda, Host of Herons
+LAYOUT MAIN:(2,9)(CMC,true,57)|()([ALA:1],[M11:28])([JOU:1],[M12:19],[JOU:18],[NPH:20])([BNG:4],[ORI:5],[C15:1],[ORI:213],[BNG:119],[M15:14],[AKH:180])([UDS:1],[AVR:2],[JOU:122],[THS:18],[THS:17],[ROE:33],[ZEN:172],[DOM:35])([BNG:148])([DTK:217],[THS:11])([M11:4],[NPH:9])([BNG:116],[AVR:6])([FRF:166],[BFZ:234],[AVR:226],[C18:240],[RIX:186],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[ZEN:214],[C16:301],[JUD:141],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[SHM:278],[M19:254],[GRN:255],[RAV:281],[USG:325],[XLN:257],[GRN:258],[BNG:165])([3ED:274],[EMN:41],[6ED:19],[6ED:269],[5DN:19])([ORI:240],[DOM:179],[INV:278])([ARB:65],[THS:153],[THS:33],[MBS:138],[DST:148],[DST:149],[NPH:161],[INV:229],[CHK:10],[E02:4],[AVR:198],[JUD:31],[MOR:12],[CHK:225])([KLD:216],[M14:3],[M12:3],[ROE:177],[UDS:15],[BFZ:29])([NPH:17],[SOM:110],[JUD:139],[RAV:251],[ORI:31],[RTR:24],[JOU:145])([ZEN:6],[BNG:24])([OGW:147])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([PUMA:U25])

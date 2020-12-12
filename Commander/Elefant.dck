@@ -1,0 +1,83 @@
+14 [GRN:264] Forest
+1 [FRF:130] Frontier Mastodon
+1 [10E:26] Loxodon Mystic
+1 [8ED:324] Elfhame Palace
+1 [TSB:74] Call of the Herd
+1 [LRW:270] Mosswort Bridge
+7 [GRN:260] Plains
+1 [ROE:191] Kazandu Tuskcaller
+1 [5ED:340] War Mammoth
+1 [ARB:65] Behemoth Sledge
+1 [M11:189] Overwhelming Stampede
+1 [FRF:137] Sandsteppe Mastodon
+1 [JUD:111] Elephant Guide
+1 [CN2:71] Selvala's Stampede
+1 [ALA:139] Mosstodon
+1 [PLC:149] Harmonize
+1 [MRD:203] Mask of Memory
+1 [VIS:104] Elephant Grass
+1 [ODY:250] Metamorphic Wurm
+1 [SOI:274] Fortified Village
+1 [TMP:220] Crazed Armodon
+1 [MBS:12] Loxodon Partisan
+1 [THS:153] Bow of Nylea
+1 [ROE:37] Mammoth Umbra
+1 [RTR:21] Selesnya Sentry
+1 [INV:233] Aura Shards
+1 [RAV:25] Loxodon Gatekeeper
+1 [WWK:115] Terastodon
+1 [MIR:22] Iron Tusk Elephant
+1 [TMP:262] Trumpeting Armodon
+1 [RTR:178] Loxodon Smiter
+1 [M19:259] Tranquil Expanse
+1 [M12:190] Rampant Growth
+1 [ZEN:159] Beastmaster Ascension
+1 [ONS:294] Tribal Unity
+1 [M14:208] Door of Destinies
+1 [AKH:247] Scattered Groves
+1 [UDS:142] Urza's Incubator
+1 [ODY:240] Elephant Ambush
+1 [ORI:174] Elemental Bond
+1 [ISD:239] Gavony Township
+1 [SOM:167] Infiltration Lens
+1 [SOM:8] Ghalma's Warden
+1 [CHK:225] Kodama's Reach
+1 [RAV:214] Loxodon Hierarch
+1 [9ED:274] Trained Armodon
+1 [XLN:257] Sunpetal Grove
+1 [M11:168] Cultivate
+1 [SCG:110] Alpha Status
+1 [MIR:30] Noble Elephant
+1 [3ED:274] Sol Ring
+1 [DST:134] Nemesis Mask
+1 [AER:109] Heroic Intervention
+1 [CON:15] Path to Exile
+1 [5DN:10] Loxodon Anchorite
+1 [MIR:254] Wild Elephant
+1 [5DN:11] Loxodon Stalwart
+1 [AER:107] Greenbelt Rampager
+1 [ME4:167] Southern Elephant
+1 [M13:27] Prized Elephant
+1 [AVR:191] Revenge of the Hunted
+1 [FRF:166] Blossoming Sands
+1 [ARN:74] Elephant Graveyard
+1 [GRN:255] Selesnya Guildgate
+1 [JUD:141] Krosan Verge
+1 [AER:162] Lifecrafter's Bestiary
+1 [SOM:15] Loxodon Wayfarer
+1 [C18:240] Command Tower
+1 [KLD:197] Bastion Mastodon
+1 [SCG:143] Temple of the False God
+1 [JUD:107] Brawn
+1 [KTK:158] Woolly Loxodon
+1 [RAV:281] Selesnya Sanctuary
+1 [10E:332] Loxodon Warhammer
+1 [ARN:11a] War Elephant
+1 [ZEN:214] Graypelt Refuge
+1 [CNS:39] Selvala's Charge
+1 [GPT:18] Spelltithe Enforcer
+1 [ODY:263] Rabid Elephant
+1 [INV:28] Rampant Elephant
+SB: 1 [C16:220] Selvala, Explorer Returned
+LAYOUT MAIN:(2,7)(EDH_POWER_LEVEL,true,57)|([KLD:197],[FRF:130],[SOM:8],[AER:107],[5DN:10],[10E:26],[5DN:11],[SOM:15],[ODY:250],[INV:28],[RTR:21],[ME4:167],[9ED:274],[TMP:262])([JUD:107],[MIR:22],[ALA:139],[MIR:30],[M13:27],[ARN:11a],[5ED:340],[MIR:254])([RTR:178])([ROE:191])([RAV:25])([TMP:220],[RAV:214],[MBS:12],[ODY:263],[FRF:137],[GPT:18],[WWK:115],[KTK:158])()([ONS:294],[PLC:149],[SOM:167],[MRD:203],[DST:134],[ZEN:159],[ORI:174],[FRF:166],[C18:240],[ARN:74],[8ED:324],[SOI:274],[ZEN:214],[AKH:247],[GRN:255],[RAV:281],[SCG:143],[M19:259],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264])([M11:168],[CHK:225],[M11:189],[M12:190],[ARB:65],[THS:153],[10E:332],[ROE:37])([CON:15])([AER:109],[JUD:111])([AER:162])([ODY:240],[TSB:74],[AVR:191],[CNS:39],[CN2:71],[M14:208],[3ED:274],[UDS:142],[SCG:110],[INV:233],[VIS:104],[ISD:239],[LRW:270],[XLN:257])([JUD:141])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([C16:220])

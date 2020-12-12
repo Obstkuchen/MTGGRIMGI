@@ -1,0 +1,32 @@
+1 [GRN:264] Forest
+3 [ROE:26] Hyena Umbra
+2 [M12:35] Spirit Mantle
+4 [FUT:21] Daybreak Coronet
+1 [GRN:260] Plains
+1 [AKH:7] Cartouche of Solidarity
+2 [GPT:94] Silhana Ledgewalker
+4 [KTK:248] Windswept Heath
+4 [FUT:177] Horizon Canopy
+2 [KTK:249] Wooded Foothills
+4 [EVE:160] Slippery Bogle
+1 [FUT:174] Dryad Arbor
+2 [ROE:31] Kor Spiritdancer
+4 [RTR:9] Ethereal Armor
+4 [M14:176] Gladecover Scout
+4 [M13:185] Rancor
+2 [CON:15] Path to Exile
+4 [ROE:208] Spider Umbra
+3 [M11:21] Leyline of Sanctity
+4 [SOM:228] Razorverge Thicket
+1 [SOI:20] Gryff's Boon
+3 [GRN:258] Temple Garden
+SB: 2 [8ED:237] Choke
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [ISD:36] Stony Silence
+SB: 2 [LRW:248] Gaddock Teeg
+SB: 2 [PLC:153] Seal of Primordium
+SB: 1 [9ED:55] Worship
+SB: 3 [RTR:18] Rest in Peace
+SB: 1 [10E:45] Spirit Link
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([FUT:174])([M14:176],[M14:176],[M14:176],[M14:176],[ROE:31],[ROE:31],[GPT:94],[GPT:94],[EVE:160],[EVE:160],[EVE:160],[EVE:160])([AKH:7],[FUT:21],[FUT:21],[FUT:21],[FUT:21],[RTR:9],[RTR:9],[RTR:9],[RTR:9],[SOI:20],[ROE:26],[ROE:26],[ROE:26],[M11:21],[M11:21],[M11:21],[M13:185],[M13:185],[M13:185],[M13:185],[ROE:208],[ROE:208],[ROE:208],[ROE:208],[M12:35],[M12:35])([CON:15],[CON:15])([GRN:264],[FUT:177],[FUT:177],[FUT:177],[FUT:177],[GRN:260],[SOM:228],[SOM:228],[SOM:228],[SOM:228],[GRN:258],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([8ED:237],[8ED:237],[DOM:213],[DOM:213],[LRW:248],[LRW:248],[RTR:18],[RTR:18],[RTR:18],[PLC:153],[PLC:153],[10E:45],[ISD:36],[ISD:36],[9ED:55])

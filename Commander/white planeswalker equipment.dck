@@ -1,0 +1,76 @@
+1 [M12:19] Grand Abolisher
+1 [C16:51] Armory Automaton
+1 [NPH:161] Sword of War and Peace
+1 [10E:61] Wrath of God
+1 [AKH:2] Anointed Procession
+1 [C14:57] Masterwork of Ingenuity
+27 [RNA:260] Plains
+1 [DST:6] Leonin Shikari
+1 [TSP:39] Return to Dust
+1 [MBS:138] Sword of Feast and Famine
+1 [USG:320] Drifting Meadow
+1 [KLD:247] Inventors' Fair
+1 [WWK:20] Stoneforge Mystic
+1 [THS:9] Elspeth, Sun's Champion
+1 [AVR:10] Cathars' Crusade
+1 [DOM:12] Danitha Capashen, Paragon
+1 [ONS:324] Secluded Steppe
+1 [CM2:233] Arcane Lighthouse
+1 [M11:216] Sword of Vengeance
+1 [6ED:19] Enlightened Tutor
+1 [TMP:300] Pearl Medallion
+1 [MRD:251] Sword of Kaldra
+1 [MRD:27] Taj-Nar Swordsmith
+1 [M12:224] Buried Ruin
+1 [SOM:208] Sword of Body and Mind
+1 [C17:2] Balan, Wandering Knight
+1 [AVR:217] Moonsilver Spear
+1 [SOM:206] Strata Scythe
+1 [SOI:32] Open the Armory
+1 [WWK:15] Marshal's Anthem
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [M12:39] Sun Titan
+1 [C17:51] Hammer of Nazahn
+1 [SOM:25] True Conviction
+1 [C17:50] Bloodforged Battle-Axe
+1 [M12:219] Swiftfoot Boots
+1 [3ED:274] Sol Ring
+1 [MOR:24] Stonehewer Giant
+1 [C14:4] Comeuppance
+1 [EMN:41] Sigarda's Aid
+1 [CON:15] Path to Exile
+1 [ISD:240] Ghost Quarter
+1 [CON:11] Martial Coup
+1 [OGW:37] Stone Haven Outfitter
+1 [SOM:137] Argentum Armor
+1 [AER:23] Sram, Senior Edificer
+1 [ORI:240] Sword of the Animist
+1 [AVR:36] Silverblade Paladin
+1 [MBS:14] Mirran Crusader
+1 [ULG:14] Mother of Runes
+1 [SOM:12] Kemba, Kha Regent
+1 [C17:60] Fell the Mighty
+1 [JOU:12] Godsend
+1 [SOM:11] Indomitable Archangel
+1 [NPH:132] Caged Sun
+1 [SCG:143] Temple of the False God
+1 [NPH:130] Batterskull
+1 [DST:140] Skullclamp
+1 [5DN:19] Steelshaper's Gift
+1 [10E:332] Loxodon Warhammer
+1 [M19:27] Mentor of the Meek
+1 [ICE:54] Swords to Plowshares
+1 [MRD:4] Auriok Steelshaper
+1 [DST:148] Sword of Fire and Ice
+1 [ORI:29] Relic Seeker
+1 [DST:149] Sword of Light and Shadow
+1 [NPH:20] Puresteel Paladin
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [MBS:104] Darksteel Plate
+1 [MRD:199] Lightning Greaves
+1 [ORI:21] Knight of the White Orchid
+1 [MRD:8] Leonin Abunas
+1 [9ED:15] Gift of Estates
+SB: 1 [C14:10] Nahiri, the Lithomancer
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,57)|([C16:51])()([MRD:4],[C17:2],[DOM:12],[M12:19],[SOM:11],[SOM:12],[ORI:21],[MRD:8],[DST:6],[M19:27],[MBS:14],[ULG:14],[NPH:20],[ORI:29],[AVR:36],[AER:23],[OGW:37],[WWK:20],[MOR:24],[M12:39],[MRD:27])()()()()()()([SOM:137],[NPH:130],[C17:50],[NPH:132],[MBS:104],[JOU:12],[C17:51],[MRD:199],[10E:332],[C14:57],[AVR:217],[TMP:300],[DST:140],[3ED:274],[SOM:206],[M12:219],[SOM:208],[MBS:138],[DST:148],[MRD:251],[DST:149],[M11:216],[NPH:161],[ORI:240])()([AKH:2],[AVR:10],[WWK:15],[EMN:41],[SOM:25])([C14:4],[6ED:19],[CON:15],[TSP:39],[ICE:54])([CM2:233],[M12:224],[USG:320],[ZEN:213],[ISD:240],[KLD:247],[THS:223],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[ONS:324],[SCG:143])([THS:9])([C17:60],[9ED:15],[CON:11],[SOI:32],[5DN:19],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([C14:10])

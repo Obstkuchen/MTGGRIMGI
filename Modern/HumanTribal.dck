@@ -1,0 +1,18 @@
+4 [GTC:7] Boros Elite
+4 [CON:15] Path to Exile
+4 [DOM:6] Benalish Marshal
+22 [GRN:260] Plains
+3 [ORI:23] Kytheon, Hero of Akros
+3 [ORI:21] Knight of the White Orchid
+4 [SOI:43] Thalia's Lieutenant
+3 [M14:10] Brave the Elements
+3 [M12:23] Honor of the Pure
+3 [AER:164] Metallic Mimic
+4 [ISD:6] Champion of the Parish
+3 [DKA:8] Gather the Townsfolk
+SB: 3 [ZEN:14] Journey to Nowhere
+SB: 4 [MBS:5] Divine Offering
+SB: 4 [KTK:9] Erase
+SB: 4 [GTC:25] Smite
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([AER:164],[AER:164],[AER:164])([DOM:6],[DOM:6],[DOM:6],[DOM:6],[GTC:7],[GTC:7],[GTC:7],[GTC:7],[ISD:6],[ISD:6],[ISD:6],[ISD:6],[ORI:21],[ORI:21],[ORI:21],[ORI:23],[ORI:23],[ORI:23],[SOI:43],[SOI:43],[SOI:43],[SOI:43])([M12:23],[M12:23],[M12:23])([M14:10],[M14:10],[M14:10],[CON:15],[CON:15],[CON:15],[CON:15])([GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260])([DKA:8],[DKA:8],[DKA:8])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MBS:5],[MBS:5],[MBS:5],[MBS:5],[KTK:9],[KTK:9],[KTK:9],[KTK:9],[ZEN:14],[ZEN:14],[ZEN:14],[GTC:25],[GTC:25],[GTC:25],[GTC:25])

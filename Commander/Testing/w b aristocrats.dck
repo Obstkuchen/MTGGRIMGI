@@ -1,0 +1,82 @@
+1 [RNA:79] Orzhov Enforcer
+1 [XLN:117] Revel in Riches
+1 [TOR:140] Tainted Field
+1 [SOI:280] Warped Landscape
+1 [MMQ:116] Black Market
+1 [BFZ:106] Carrier Thrall
+1 [M11:229] Terramorphic Expanse
+1 [5DN:165] Wayfarer's Bauble
+1 [FRF:171] Scoured Barrens
+1 [AKH:2] Anointed Procession
+1 [6ED:274] Ashnod's Altar
+1 [INV:306] Phyrexian Altar
+1 [PLC:85] Damnation
+1 [M19:112] Open the Graves
+1 [GPT:155] Orzhov Signet
+1 [TSP:262] Prismatic Lens
+8 [RNA:260] Plains
+1 [ISD:100] Falkenrath Noble
+1 [KTK:73] Grim Haruspex
+1 [KLD:245] Concealed Courtyard
+1 [8ED:315] Star Compass
+1 [RIX:81] Pitiless Plunderer
+1 [TMP:18] Field of Souls
+1 [M14:93] Dark Prophecy
+1 [CON:142] Exotic Orchard
+14 [RNA:262] Swamp
+1 [DKA:18] Requiem Angel
+1 [NEM:8] Fanatical Devotion
+1 [GRN:15] Hunted Witness
+1 [GTC:150] Cartel Aristocrat
+1 [KTK:210] Utter End
+1 [M14:123] Xathrid Necromancer
+1 [RNA:192] Mortify
+1 [FRF:22] Rally the Ancestors
+1 [WWK:53] Butcher of Malakir
+1 [SOI:242] Anguished Unmaking
+1 [AER:74] Yahenni, Undying Partisan
+1 [AVR:86] Blood Artist
+1 [RNA:248] Godless Shrine
+1 [DOM:242] Memorial to Folly
+1 [10E:144] Grave Pact
+1 [DOM:241] Isolated Chapel
+1 [M11:120] Viscera Seer
+1 [C14:8] Hallowed Spiritkeeper
+1 [RNA:16] Ministrant of Obligation
+1 [3ED:274] Sol Ring
+1 [ISD:11] Doomed Traveler
+1 [GPT:134] Teysa, Orzhov Scion
+1 [MOR:22] Reveillark
+1 [TSB:6] Disenchant
+1 [RIX:186] Evolving Wilds
+1 [3ED:105] Demonic Tutor
+1 [MPS:16] Mana Crypt
+1 [ORI:245] Caves of Koilos
+1 [DOM:90] The Eldest Reborn
+1 [M19:93] Doomed Dissenter
+1 [GTC:74] Ogre Slumlord
+1 [ULG:13] Martyr's Cause
+1 [C18:240] Command Tower
+1 [KLD:75] Diabolic Tutor
+1 [7ED:306] Marble Diamond
+1 [OGW:77] Sifter of Skulls
+1 [RNA:83] Priest of Forgotten Gods
+1 [SCG:59] Carrion Feeder
+1 [DST:140] Skullclamp
+1 [M12:6] Archon of Justice
+1 [GRN:77] Midnight Reaper
+1 [10E:335] Mind Stone
+1 [ICE:54] Swords to Plowshares
+1 [ROE:122] Pawn of Ulamog
+1 [M19:116] Reassembling Skeleton
+1 [BFZ:99] Smothering Abomination
+1 [AKH:228] Gate to the Afterlife
+1 [GPT:161] Orzhov Basilica
+1 [FRF:85] Sultai Emissary
+1 [RNA:90] Vindictive Vampire
+1 [BFZ:126] Zulaport Cutthroat
+1 [GTC:177] Merciless Eviction
+1 [DTK:99] Dutiful Attendant
+SB: 1 [RNA:212] Teysa Karlov
+LAYOUT MAIN:(2,8)(CMC,true,57)|()([SCG:59],[ISD:11],[GRN:15],[M11:120])([AVR:86],[BFZ:106],[GTC:150],[M19:93],[RNA:79],[RNA:83],[M19:116],[FRF:85],[BFZ:126])([DTK:99],[KTK:73],[C14:8],[GRN:77],[RNA:16],[ROE:122],[GPT:134],[M14:123],[AER:74])([ISD:100],[RIX:81],[OGW:77],[BFZ:99],[RNA:90])([M12:6],[GTC:74],[MOR:22])([DKA:18])([WWK:53])([ORI:245],[C18:240],[KLD:245],[RIX:186],[CON:142],[RNA:248],[DOM:241],[MPS:16],[DOM:242],[GPT:161],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[FRF:171],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[TOR:140],[M11:229],[SOI:280])([DST:140],[3ED:274],[ICE:54],[5DN:165])([3ED:105],[TSB:6],[7ED:306],[10E:335],[GPT:155],[TSP:262],[FRF:22],[8ED:315])([SOI:242],[6ED:274],[M14:93],[NEM:8],[AKH:228],[ULG:13],[RNA:192],[INV:306])([AKH:2],[PLC:85],[KLD:75],[TMP:18],[10E:144],[KTK:210])([MMQ:116],[M19:112],[XLN:117],[DOM:90])([GTC:177])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([RNA:212])

@@ -1,0 +1,92 @@
+1 [8ED:287] Vine Trellis
+1 [ROE:46] Stalwart Shield-Bearers
+1 [M11:229] Terramorphic Expanse
+5 [GRN:264] Forest
+1 [RAV:155] Carven Caryatid
+1 [FRF:174] Tranquil Cove
+1 [FRF:173] Thornwood Falls
+5 [GRN:261] Island
+1 [DOM:69] Tetsuko Umezawa, Fugitive
+8 [GRN:260] Plains
+1 [RAV:270] Selesnya Signet
+1 [DIS:180] Simic Growth Chamber
+1 [EMN:62] Geist of the Archives
+1 [BFZ:27] Fortified Rampart
+1 [RTR:35] Cyclonic Rift
+1 [MRD:243] Slagwurm Armor
+1 [DGM:146] Azorius Guildgate
+1 [FRF:15] Jeskai Barricade
+1 [AKH:210] Dusk // Dawn
+1 [BFZ:234] Canopy Vista
+1 [MRD:248] Steel Wall
+1 [WWK:16] Perimeter Captain
+1 [TSB:89] Wall of Roots
+1 [M14:4] Angelic Wall
+1 [RIX:22] Slaughter the Strong
+1 [GRN:58] Wall of Mist
+1 [DIS:170] Azorius Chancery
+1 [ALL:129] Shield Sphere
+1 [UDS:25] Wall of Glare
+1 [ARB:16] Wall of Denial
+1 [GRN:54] Sinister Sabotage
+1 [STH:125] Wall of Blossoms
+1 [USG:315] Wall of Junk
+1 [PLS:17] Sunscape Familiar
+1 [DIS:166] Simic Signet
+1 [M15:83] Wall of Frost
+1 [DGM:156] Simic Guildgate
+1 [CHK:225] Kodama's Reach
+1 [SOI:1] Always Watching
+1 [M12:219] Swiftfoot Boots
+1 [XLN:255] Glacial Fortress
+1 [XLN:257] Sunpetal Grove
+1 [M11:168] Cultivate
+1 [8ED:38] Rolling Stones
+1 [DOM:240] Hinterland Harbor
+1 [EXO:24] Wall of Nets
+1 [NPH:103] Beast Within
+1 [3ED:274] Sol Ring
+1 [M19:254] Reliquary Tower
+1 [7ED:78] Glacial Wall
+1 [KTK:5] Brave the Sands
+1 [DTK:207] Sight of the Scalelords
+1 [DIS:159] Azorius Signet
+1 [RIX:186] Evolving Wilds
+1 [M13:52] Fog Bank
+1 [M15:208] Wall of Mulch
+1 [ISD:207] Tree of Redemption
+1 [THS:180] Sylvan Caryatid
+1 [GRN:255] Selesnya Guildgate
+1 [7ED:307] Meekstone
+1 [SOI:16] Eerie Interlude
+1 [C17:60] Fell the Mighty
+1 [C18:240] Command Tower
+1 [RTR:40] Hover Barrier
+1 [DOM:210] Amaranthine Wall
+1 [RAV:46] Drift of Phantasms
+1 [ROE:203] Overgrown Battlement
+1 [RAV:281] Selesnya Sanctuary
+1 [ROE:53] Wall of Omens
+1 [ICE:54] Swords to Plowshares
+1 [7ED:67] Counterspell
+1 [APC:106] Jungle Barrier
+1 [MMQ:56] Wave of Reckoning
+1 [RTR:115] Axebane Guardian
+1 [DKA:2] Bar the Door
+1 [GTC:137] Tower Defense
+1 [10E:4] Angelic Chorus
+1 [MRD:199] Lightning Greaves
+1 [MMQ:273] Spidersilk Armor
+1 [BFZ:241] Prairie Stream
+1 [ALA:229] Seaside Citadel
+1 [THS:55] Mnemonic Wall
+1 [SOM:222] Wall of Tanglecord
+1 [DTK:173] Assault Formation
+SB: 1 [M19:212] Arcades, the Strategist
+<<<<<<< HEAD
+LAYOUT MAIN:(2,7)(CARD_TYPE,true,36)|([DOM:210],[ALL:129],[MRD:248],[USG:315],[SOM:222])()([M14:4],[RTR:115],[RAV:155],[RAV:46],[M13:52],[BFZ:27],[EMN:62],[7ED:78],[RTR:40],[FRF:15],[APC:106],[THS:55],[ROE:203],[WWK:16],[ROE:46],[PLS:17],[THS:180],[DOM:69],[ISD:207],[8ED:287],[STH:125],[ARB:16],[M15:83],[UDS:25],[GRN:58],[M15:208],[EXO:24],[ROE:53],[TSB:89])()()()()()([DIS:159],[MRD:199],[7ED:307],[RAV:270],[DIS:166],[MRD:243],[3ED:274],[M12:219])()([SOI:1],[10E:4],[DTK:173],[KTK:5],[8ED:38],[DTK:207],[MMQ:273])([DKA:2],[NPH:103],[7ED:67],[RTR:35],[SOI:16],[GRN:54],[ICE:54],[GTC:137])([DIS:170],[DGM:146],[BFZ:234],[C18:240],[RIX:186],[XLN:255],[DOM:240],[BFZ:241],[M19:254],[ALA:229],[GRN:255],[RAV:281],[DIS:180],[DGM:156],[XLN:257],[M11:229],[FRF:173],[FRF:174],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264])([M11:168],[AKH:210],[C17:60],[CHK:225],[RIX:22],[MMQ:56])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M19:212])
+=======
+LAYOUT MAIN:(2,8)(EDH_POWER_LEVEL,true,57)|([DOM:210],[M14:4],[RTR:115],[RAV:155],[BFZ:27],[EMN:62],[7ED:78],[RTR:40],[APC:106],[WWK:16],[ALL:129],[ROE:46],[MRD:248],[ISD:207],[8ED:287],[STH:125],[USG:315],[GRN:58],[ROE:53])()()([THS:180],[ARB:16])([M13:52],[FRF:15],[THS:55],[M15:83],[M15:208],[EXO:24])([ROE:203],[PLS:17],[DOM:69],[UDS:25],[TSB:89],[SOM:222])([RAV:46])()([DKA:2],[AKH:210],[DIS:159],[RAV:270],[DIS:166],[MRD:243],[SOI:1],[10E:4],[8ED:38],[DTK:207],[DIS:170],[DGM:146],[C18:240],[M19:254],[ALA:229],[GRN:255],[RAV:281],[DIS:180],[DGM:156],[FRF:173],[FRF:174],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264])([7ED:67],[GRN:54],[M11:168],[CHK:225])([ICE:54])([NPH:103],[C17:60],[MRD:199],[M12:219])([SOI:16],[RIX:186],[M11:229])([GTC:137],[RIX:22],[MMQ:56],[7ED:307],[3ED:274],[DTK:173],[KTK:5],[MMQ:273],[BFZ:234],[XLN:255],[DOM:240],[BFZ:241],[XLN:257])()([RTR:35])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([M19:212])
+>>>>>>> 48594b334fa72025f39a2736de34daef36eeebf9

@@ -1,0 +1,26 @@
+3 [GRN:243] Boros Guildgate
+4 [GRN:254] Sacred Foundry
+1 [GRN:165] Deafening Clarion
+4 [DOM:21] History of Benalia
+4 [M19:34] Resplendent Angel
+3 [GRN:153] Aurelia, Exemplar of Justice
+6 [GRN:263] Mountain
+4 [XLN:42] Tocatli Honor Guard
+4 [DOM:26] Lyra Dawnbringer
+8 [GRN:260] Plains
+4 [RIX:111] Rekindling Phoenix
+1 [M19:156] Shock
+4 [DOM:239] Clifftop Retreat
+4 [GRN:108] Lava Coil
+2 [XLN:17] Ixalan's Binding
+4 [XLN:1] Adanto Vanguard
+SB: 1 [XLN:34] Settle the Wreckage
+SB: 2 [DOM:119] Fight with Fire
+SB: 1 [GRN:6] Conclave Tribunal
+SB: 2 [GRN:165] Deafening Clarion
+SB: 2 [RIX:180] The Immortal Sun
+SB: 3 [RIX:99] Dire Fleet Daredevil
+SB: 3 [M19:130] Banefire
+SB: 1 [XLN:17] Ixalan's Binding
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,57)|([XLN:1],[XLN:1],[XLN:1],[XLN:1],[GRN:153],[GRN:153],[GRN:153],[DOM:26],[DOM:26],[DOM:26],[DOM:26],[RIX:111],[RIX:111],[RIX:111],[RIX:111],[M19:34],[M19:34],[M19:34],[M19:34],[XLN:42],[XLN:42],[XLN:42],[XLN:42])([DOM:21],[DOM:21],[DOM:21],[DOM:21],[XLN:17],[XLN:17])([M19:156])([GRN:243],[GRN:243],[GRN:243],[DOM:239],[DOM:239],[DOM:239],[DOM:239],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:254],[GRN:254],[GRN:254],[GRN:254])([GRN:165],[GRN:108],[GRN:108],[GRN:108],[GRN:108])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([M19:130],[M19:130],[M19:130],[GRN:6],[GRN:165],[GRN:165],[RIX:99],[RIX:99],[RIX:99],[DOM:119],[DOM:119],[XLN:17],[XLN:34],[RIX:180],[RIX:180])

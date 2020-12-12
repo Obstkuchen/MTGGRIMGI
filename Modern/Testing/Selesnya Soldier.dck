@@ -1,0 +1,28 @@
+2 [AKH:170] Harvest Season
+4 [GRN:188] March of the Multitudes
+3 [GRN:264] Forest
+4 [10E:15] Field Marshal
+7 [GRN:260] Plains
+4 [M11:28] Serra Ascendant
+3 [XLN:257] Sunpetal Grove
+2 [AKH:2] Anointed Procession
+4 [KTK:248] Windswept Heath
+4 [GRN:13] Haazda Marshal
+2 [GRN:10] Divine Visitation
+2 [AER:109] Heroic Intervention
+3 [GRN:6] Conclave Tribunal
+2 [ISD:199] Parallel Lives
+1 [GRN:208] Trostani Discordant
+4 [SOI:43] Thalia's Lieutenant
+1 [RTR:206] Trostani, Selesnya's Voice
+3 [GRN:226] Flower // Flourish
+3 [GRN:258] Temple Garden
+2 [GRN:168] Emmara, Soul of the Accord
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 3 [RTR:223] Sundering Growth
+SB: 1 [GRN:6] Conclave Tribunal
+SB: 4 [CON:15] Path to Exile
+SB: 3 [GRN:8] Dawn of Hope
+SB: 2 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,57)|([GRN:168],[GRN:168],[10E:15],[10E:15],[10E:15],[10E:15],[GRN:13],[GRN:13],[GRN:13],[GRN:13],[M11:28],[M11:28],[M11:28],[M11:28],[SOI:43],[SOI:43],[SOI:43],[SOI:43],[GRN:208],[RTR:206])([AKH:2],[AKH:2],[GRN:6],[GRN:6],[GRN:6],[GRN:10],[GRN:10],[ISD:199],[ISD:199])([AER:109],[AER:109],[GRN:188],[GRN:188],[GRN:188],[GRN:188])([GRN:264],[GRN:264],[GRN:264],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[XLN:257],[XLN:257],[XLN:257],[GRN:258],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[KTK:248],[KTK:248])([AKH:170],[AKH:170],[GRN:226],[GRN:226],[GRN:226])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([GRN:6],[GRN:8],[GRN:8],[GRN:8],[CON:15],[CON:15],[CON:15],[CON:15],[ALA:218],[ALA:218],[XLN:34],[XLN:34],[RTR:223],[RTR:223],[RTR:223])

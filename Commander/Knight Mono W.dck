@@ -1,0 +1,76 @@
+1 [ROE:44] Soul's Attendant
+1 [AVR:22] Goldnight Commander
+1 [M19:6] Ajani's Welcome
+1 [ONS:315] Daru Encampment
+1 [10E:29] Mobilization
+1 [BNG:5] Brimaz, King of Oreskos
+1 [BNG:4] Archetype of Courage
+27 [GRN:260] Plains
+1 [8ED:322] City of Brass
+1 [ONS:319] Grand Coliseum
+1 [AKH:2] Anointed Procession
+1 [ALL:139] Kjeldoran Outpost
+1 [OGW:166] Stoneforge Masterwork
+1 [ONS:10] Catapult Master
+1 [TSP:39] Return to Dust
+1 [C16:2] Entrapment Maneuver
+1 [THS:9] Elspeth, Sun's Champion
+1 [AVR:10] Cathars' Crusade
+1 [ODY:329] Tarnished Citadel
+1 [GTC:8] Court Street Denizen
+1 [M10:207] Coat of Arms
+1 [M10:26] Rhox Pikemaster
+1 [TMP:300] Pearl Medallion
+1 [ROE:39] Nomads' Assembly
+1 [LRW:281] Windbrisk Heights
+1 [RAV:25] Loxodon Gatekeeper
+1 [ISD:19] Intangible Virtue
+1 [JOU:8] Dictate of Heliod
+1 [ALA:17] Knight-Captain of Eos
+1 [SCG:6] Daru Warchief
+1 [ODY:322] Nomad Stadium
+1 [M14:208] Door of Destinies
+1 [M12:23] Honor of the Pure
+1 [ZEN:8] Conqueror's Pledge
+1 [SOI:31] Odric, Lunarch Marshal
+1 [WWK:15] Marshal's Anthem
+1 [MBS:8] Hero of Bladehold
+1 [THS:33] Spear of Heliod
+1 [C17:53] Herald's Horn
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [SOM:25] True Conviction
+1 [SOM:6] Elspeth Tirel
+1 [M10:38] Veteran Armorsmith
+1 [M10:39] Veteran Swordsmith
+1 [XLN:251] Vanquisher's Banner
+1 [M13:8] Captain of the Watch
+1 [M15:18] Mass Calcify
+1 [3ED:274] Sol Ring
+1 [C14:6] Deploy to the Front
+1 [CON:15] Path to Exile
+1 [CON:11] Martial Coup
+1 [EMN:46] Thalia, Heretic Cathar
+1 [M10:34] Soul Warden
+1 [M13:10] Crusader of Odric
+1 [RTR:17] Precinct Captain
+1 [M15:25] Preeminent Captain
+1 [M15:26] Raise the Alarm
+1 [10E:15] Field Marshal
+1 [JOU:15] Launch the Fleet
+1 [M13:23] Odric, Master Tactician
+1 [MOR:1] Ballyrush Banneret
+1 [NPH:132] Caged Sun
+1 [DST:140] Skullclamp
+1 [SCG:143] Temple of the False God
+1 [PLC:2] Benalish Commander
+1 [M19:27] Mentor of the Meek
+1 [ICE:54] Swords to Plowshares
+1 [DOM:4] Baird, Steward of Argive
+1 [C15:1] Bastion Protector
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [M13:20] Intrepid Hero
+1 [NPH:25] Suture Priest
+1 [MRD:199] Lightning Greaves
+SB: 1 [CSP:4] Darien, King of Kjeldor
+LAYOUT MAIN:(2,6)(EDH_POWER_LEVEL,true,57)|([C15:1],[10E:15],[M13:23],[M15:25],[M10:26],[M10:38],[M10:39])([M13:20])([ONS:10])([BNG:5],[M13:8],[RTR:17])([BNG:4],[GTC:8],[AVR:22],[ALA:17],[RAV:25],[M10:34],[ROE:44],[NPH:25],[EMN:46])([DOM:4],[MOR:1],[PLC:2],[M13:10],[SCG:6],[MBS:8],[M19:27],[SOI:31])([NPH:132],[DST:140],[M19:6],[M12:23],[ISD:19],[SOM:25],[8ED:322],[ONS:315],[ONS:319],[ODY:329],[SCG:143],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260])([THS:33])([CON:15],[TSP:39],[ICE:54])([M15:26],[ZEN:8],[C14:6],[CON:11],[M15:18],[MRD:199],[10E:29])([C16:2],[XLN:251],[JOU:8],[WWK:15],[THS:9],[ZEN:213],[ALL:139],[ODY:322])([JOU:15],[ROE:39],[M10:207],[M14:208],[C17:53],[TMP:300],[3ED:274],[OGW:166],[AKH:2],[AVR:10],[SOM:6],[THS:223],[LRW:281])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([CSP:4])

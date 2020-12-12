@@ -1,0 +1,95 @@
+1 [C16:53] Conqueror's Flail
+1 [M11:229] Terramorphic Expanse
+3 [GRN:264] Forest
+2 [GRN:263] Mountain
+3 [GRN:262] Swamp
+1 [LRW:270] Mosswort Bridge
+3 [GRN:260] Plains
+1 [ONS:319] Grand Coliseum
+1 [ARB:67] Dauntless Escort
+1 [9ED:297] Fellwar Stone
+1 [ALA:180] Naya Charm
+1 [FRF:138] Shamanic Revelation
+1 [RAV:272] Sunforger
+1 [FRF:90] Alesha, Who Smiles at Death
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [M13:170] Farseek
+1 [C18:19] Sower of Discord
+1 [GPT:150] Gruul Signet
+1 [GTC:247] Stomping Ground
+1 [JOU:150] Iroas, God of Victory
+1 [ORI:186] Managorger Hydra
+1 [THS:9] Elspeth, Sun's Champion
+1 [GTC:242] Godless Shrine
+1 [CON:142] Exotic Orchard
+1 [GPT:158] Gruul Turf
+1 [GRN:233] Chromatic Lantern
+1 [GTC:6] Blind Obedience
+1 [CMA:155] Thunderfoot Baloth
+1 [DOM:194] Garna, the Bloodflame
+1 [C16:25] Stonehoof Chieftain
+1 [DOM:195] Grand Warlord Radha
+1 [10E:354] Karplusan Forest
+1 [C17:43] Mirri, Weatherlight Duelist
+1 [KTK:210] Utter End
+1 [AKH:205] Samut, Voice of Dissent
+1 [M12:190] Rampant Growth
+1 [ZEN:159] Beastmaster Ascension
+1 [5DN:86] Eternal Witness
+1 [KTK:171] Crackling Doom
+1 [FRF:64] Brutal Hordechief
+1 [AKH:125] Combat Celebrant
+1 [BNG:156] Xenagos, God of Revels
+1 [CHK:239] Sakura-Tribe Elder
+1 [SOI:31] Odric, Lunarch Marshal
+1 [SOI:242] Anguished Unmaking
+1 [ONS:212] Gratuitous Violence
+1 [GRN:123] Beast Whisperer
+1 [M12:39] Sun Titan
+1 [CHK:225] Kodama's Reach
+1 [XLN:256] Rootbound Crag
+1 [9ED:152] Phyrexian Arena
+1 [XLN:257] Sunpetal Grove
+1 [M11:168] Cultivate
+1 [XLN:252] Dragonskull Summit
+1 [C16:39] Ravos, Soultender
+1 [ARB:46] Terminate
+1 [ARB:118] Lavalanche
+1 [JUD:139] Mirari's Wake
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [3ED:274] Sol Ring
+1 [KTK:164] Ankle Shanker
+1 [KTK:241] Sandsteppe Citadel
+1 [KTK:161] Abzan Charm
+1 [RIX:186] Evolving Wilds
+1 [3ED:105] Demonic Tutor
+1 [EMN:46] Thalia, Heretic Cathar
+1 [GTC:148] Boros Charm
+1 [ORI:245] Caves of Koilos
+1 [GTC:143] Aurelia, the Warleader
+1 [GRN:125] Circuitous Route
+1 [GRN:254] Sacred Foundry
+1 [GRN:253] Overgrown Tomb
+1 [C18:240] Command Tower
+1 [DOM:35] Shalai, Voice of Plenty
+1 [C18:200] Commander's Sphere
+1 [DST:140] Skullclamp
+1 [KTK:237] Nomad Outpost
+1 [C16:48] Tymna the Weaver
+1 [M12:165] Birds of Paradise
+1 [M19:27] Mentor of the Meek
+1 [ICE:54] Swords to Plowshares
+1 [KTK:230] Bloodstained Mire
+1 [RTR:238] Blood Crypt
+1 [GPT:161] Orzhov Basilica
+1 [ALA:226] Jungle Shrine
+1 [LRW:31] Mirror Entity
+1 [MRD:199] Lightning Greaves
+1 [5ED:329] Sylvan Library
+1 [ALA:228] Savage Lands
+1 [JOU:93] Dictate of the Twin Gods
+1 [GRN:258] Temple Garden
+SB: 1 [C16:41] Saskia the Unyielding
+LAYOUT MAIN:(2,7)(EDH_POWER_LEVEL,true,57)|([KTK:164],[M12:165],[AKH:125],[AVR:209],[DOM:195],[LRW:31],[C18:19],[C16:48])([ORI:186],[C16:25],[CMA:155])()()([GRN:123],[FRF:64],[ARB:67],[5DN:86],[DOM:194],[C16:39],[CHK:239],[AKH:205],[EMN:46])([FRF:90],[GTC:143],[JOU:150],[M19:27],[C17:43],[SOI:31],[DOM:35],[M12:39],[BNG:156])()([GTC:148],[ALA:180],[GRN:233],[9ED:297],[GPT:150],[DST:140],[ZEN:159],[ONS:212],[JUD:139],[9ED:152],[RTR:238],[ORI:245],[C18:240],[CON:142],[GTC:242],[ONS:319],[GPT:158],[ALA:226],[10E:354],[KTK:237],[GPT:161],[GRN:253],[GRN:254],[KTK:241],[ALA:228],[GTC:247],[GRN:258],[GRN:260],[GRN:260],[GRN:260],[GRN:262],[GRN:262],[GRN:262],[GRN:263],[GRN:263],[GRN:264],[GRN:264],[GRN:264])([GRN:125],[M11:168],[CHK:225],[M12:190])([KTK:161],[SOI:242],[ICE:54],[ARB:46],[KTK:210])([MRD:199])([C18:200],[JOU:93],[THS:9],[RIX:186],[M11:229])([KTK:171],[ARB:118],[FRF:138],[C16:53],[3ED:274],[GTC:6],[5ED:329],[XLN:252],[LRW:270],[XLN:256],[XLN:257])([3ED:105],[M13:170],[RAV:272],[KTK:230],[KTK:248],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([C16:41])

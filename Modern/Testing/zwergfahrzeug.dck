@@ -1,0 +1,21 @@
+5 [GRN:263] Mountain
+2 [XLN:234] Conqueror's Galleon
+4 [KLD:188] Veteran Motorist
+4 [KLD:178] Depala, Pilot Exemplar
+1 [GRN:260] Plains
+4 [KLD:32] Toolcraft Exemplar
+4 [XLN:258] Unclaimed Territory
+4 [KLD:242] Aether Hub
+4 [M19:256] Stone Quarry
+3 [AER:146] Consulate Dreadnought
+3 [KLD:203] Cultivator's Caravan
+2 [KLD:214] Fleetwheel Cruiser
+2 [KLD:247] Inventors' Fair
+4 [AER:99] Siege Modification
+2 [KLD:234] Skysovereign, Consul Flagship
+4 [KLD:246] Inspiring Vantage
+4 [AER:23] Sram, Senior Edificer
+2 [AER:142] Aethersphere Harvester
+2 [AER:153] Heart of Kiran
+LAYOUT MAIN:(2,5)(EDH_POWER_LEVEL,true,57)|([KLD:32],[KLD:32],[KLD:32],[KLD:32])([KLD:188],[KLD:188],[KLD:188],[KLD:188])([AER:23],[AER:23],[AER:23],[AER:23])([KLD:178],[KLD:178],[KLD:178],[KLD:178])()([KLD:242],[KLD:242],[KLD:242],[KLD:242],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:260],[AER:99],[AER:99],[AER:99],[AER:99],[M19:256],[M19:256],[M19:256],[M19:256],[XLN:258],[XLN:258],[XLN:258],[XLN:258])([AER:142],[AER:142],[XLN:234],[XLN:234],[AER:146],[AER:146],[AER:146],[KLD:203],[KLD:203],[KLD:203],[KLD:214],[KLD:214],[KLD:234],[KLD:234])()([AER:153],[AER:153],[KLD:246],[KLD:246],[KLD:246],[KLD:246])([KLD:247],[KLD:247])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,32)|

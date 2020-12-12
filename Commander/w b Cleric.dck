@@ -1,0 +1,83 @@
+1 [ROE:44] Soul's Attendant
+1 [TOR:140] Tainted Field
+1 [M12:19] Grand Abolisher
+1 [SOI:281] Westvale Abbey
+1 [JOU:146] Athreos, God of Passage
+1 [THS:17] Heliod, God of the Sun
+1 [ORI:106] Liliana, Heretical Healer
+1 [FRF:171] Scoured Barrens
+1 [SCG:137] Edgewalker
+1 [SHM:16] Order of Whiteclay
+1 [GPT:155] Orzhov Signet
+1 [TSP:39] Return to Dust
+13 [RNA:260] Plains
+1 [DST:159] Well of Lost Dreams
+1 [DOM:102] Rite of Belzenlok
+1 [ONS:162] Profane Prayers
+1 [ONS:164] Rotlung Reanimator
+1 [ULG:63] Phyrexian Reclamation
+1 [THS:9] Elspeth, Sun's Champion
+1 [AKH:210] Dusk // Dawn
+1 [AVR:17] Devout Chaplain
+8 [RNA:262] Swamp
+1 [LGN:85] Vile Deacon
+1 [GTC:6] Blind Obedience
+1 [ONS:325] Starlit Sanctum
+1 [M14:7] Banisher Priest
+1 [DGM:27] Pontiff of Blight
+1 [APC:126] Vindicate
+1 [KTK:210] Utter End
+1 [XLN:5] Bishop of Rebirth
+1 [RNA:192] Mortify
+1 [DGM:64] Debt to the Deathless
+1 [SCG:5] Daru Spiritualist
+1 [SOI:34] Pious Evangel
+1 [ISD:117] Skirsdag High Priest
+1 [SOI:242] Anguished Unmaking
+1 [LGN:6] Celestial Gatekeeper
+1 [9ED:152] Phyrexian Arena
+1 [RNA:248] Godless Shrine
+1 [C16:39] Ravos, Soultender
+1 [XLN:251] Vanquisher's Banner
+1 [DOM:241] Isolated Chapel
+1 [THS:227] Temple of Silence
+1 [SOI:8] Bygone Bishop
+1 [C17:56] Path of Ancestry
+1 [3ED:274] Sol Ring
+1 [EMN:40] Selfless Spirit
+1 [M14:112] Sanguine Bond
+1 [ISD:15] Fiend Hunter
+1 [BFZ:210] Drana's Emissary
+1 [JOU:65] Dictate of Erebos
+1 [M10:34] Soul Warden
+1 [ORI:245] Caves of Koilos
+1 [SOI:21] Hanweir Militia Captain
+1 [AVR:102] Exquisite Blood
+1 [ULG:14] Mother of Runes
+1 [ONS:27] Doubtless One
+1 [KLD:75] Diabolic Tutor
+1 [C18:240] Command Tower
+1 [MOR:2] Battletide Alchemist
+1 [RIX:88] Twilight Prophet
+1 [LGN:26] Whipgrass Entangler
+1 [WWK:132] Bojuka Bog
+1 [DST:140] Skullclamp
+1 [CHK:8] Eight-and-a-Half-Tails
+1 [KLD:192] Aetherflux Reservoir
+1 [10E:137] Doomed Necromancer
+1 [ICE:54] Swords to Plowshares
+1 [DKA:158] Vault of the Archangel
+1 [GTC:171] High Priest of Penance
+1 [9ED:54] Weathered Wayfarer
+1 [GPT:161] Orzhov Basilica
+1 [NPH:25] Suture Priest
+1 [ONS:3] Ancestor's Prophet
+1 [ODY:32] Master Apothecary
+1 [MRD:199] Lightning Greaves
+1 [LGN:2] Akroma's Devoted
+1 [RNA:252] Orzhov Guildgate
+1 [GTC:177] Merciless Eviction
+1 [BFZ:244] Shambling Vent
+SB: 1 [OGW:151] Ayli, Eternal Pilgrim
+LAYOUT MAIN:(2,8)(CMC,true,57)|()([ULG:14],[M10:34],[ROE:44],[9ED:54])([SCG:5],[CHK:8],[M12:19],[SOI:21],[GTC:171],[EMN:40],[ISD:117],[NPH:25])([JOU:146],[M14:7],[SOI:8],[AVR:17],[10E:137],[BFZ:210],[SCG:137],[ISD:15],[ORI:106],[ODY:32],[SHM:16],[SOI:34],[ONS:164],[LGN:26])([LGN:2],[ONS:27],[THS:17],[RIX:88],[LGN:85])([ONS:3],[MOR:2],[XLN:5],[LGN:6],[C16:39])([DGM:27])()([WWK:132],[ORI:245],[C18:240],[RNA:248],[DOM:241],[GPT:161],[RNA:252],[C17:56],[FRF:171],[BFZ:244],[ONS:325],[TOR:140],[THS:227],[DKA:158],[SOI:281],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262])([ICE:54],[DST:140],[3ED:274],[ULG:63])([MRD:199],[GPT:155],[GTC:6])([SOI:242],[RNA:192],[APC:126],[9ED:152])([TSP:39],[KTK:210],[DGM:64],[KLD:75],[ONS:162],[KLD:192],[DST:159],[DOM:102])([XLN:251],[JOU:65],[AVR:102],[M14:112])([GTC:177],[THS:9])([AKH:210])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([OGW:151])

@@ -1,0 +1,92 @@
+1 [ALA:220] Arcane Sanctum
+1 [M11:229] Terramorphic Expanse
+1 [SOM:47] Thrummingbird
+1 [JOU:145] Ajani, Mentor of Heroes
+1 [XLN:59] Herald of Secret Streams
+1 [9ED:297] Fellwar Stone
+1 [M14:181] Kalonian Hydra
+1 [RTR:152] Corpsejack Menace
+1 [ALA:140] Mycoloth
+1 [GPT:155] Orzhov Signet
+1 [DGM:59] Bred for the Hunt
+1 [GTC:162] Fathom Mage
+4 [RNA:260] Plains
+1 [M13:170] Farseek
+1 [RTR:35] Cyclonic Rift
+1 [GTC:123] Gyre Sage
+6 [RNA:264] Forest
+1 [ORI:186] Managorger Hydra
+3 [RNA:261] Island
+1 [AER:122] Rishkar, Peema Renegade
+1 [CON:142] Exotic Orchard
+1 [RNA:262] Swamp
+1 [THS:65] Swan Song
+1 [AVR:10] Cathars' Crusade
+1 [GRN:233] Chromatic Lantern
+1 [AER:181] Walking Ballista
+1 [SHM:248] Cauldron of Souls
+1 [AVR:171] Champion of Lambholt
+1 [CM2:157] Ghave, Guru of Spores
+1 [DTK:191] Inspiring Call
+1 [AER:140] Winding Constrictor
+1 [GRN:152] Assassin's Trophy
+1 [CM2:235] Ash Barrens
+1 [MOR:122] Fertilid
+1 [SOM:35] Inexorable Tide
+1 [M15:46] Chasm Skulker
+1 [SCG:120] Forgotten Ancient
+1 [RAV:262] Golgari Signet
+1 [KTK:133] Hardened Scales
+1 [KTK:174] Duneblast
+1 [DIS:166] Simic Signet
+1 [NPH:47] Tezzeret's Gambit
+1 [BBD:81] Bountiful Promenade
+1 [CM2:39] Deepglow Skate
+1 [ISD:239] Gavony Township
+1 [SOI:242] Anguished Unmaking
+1 [BBD:83] Morphic Pool
+1 [DGM:115] Vorel of the Hull Clade
+1 [CHK:225] Kodama's Reach
+1 [BBD:84] Sea of Clouds
+1 [RNA:248] Godless Shrine
+1 [M11:168] Cultivate
+1 [C18:34] Ravenous Slime
+1 [CM2:183] Crystalline Crawler
+1 [3ED:274] Sol Ring
+1 [C18:31] Loyal Guardian
+1 [KTK:2] Abzan Falconer
+1 [KTK:241] Sandsteppe Citadel
+1 [RIX:186] Evolving Wilds
+1 [RIX:142] Path of Discovery
+1 [RNA:246] Breeding Pool
+1 [GTC:188] Prime Speaker Zegana
+1 [FRF:8] Citadel Siege
+1 [MOR:147] Murmuring Bosk
+1 [GRN:253] Overgrown Tomb
+1 [GTC:209] Zameck Guildmage
+1 [BBD:12] Toothy, Imaginary Friend
+1 [C18:240] Command Tower
+1 [CSP:130] Juniper Order Ranger
+1 [BBD:11] Pir, Imaginative Rascal
+1 [CM2:259] Opal Palace
+1 [C18:200] Commander's Sphere
+1 [SCG:143] Temple of the False God
+1 [KTK:238] Opulent Palace
+1 [NEM:117] Skyshroud Claim
+1 [M14:195] Scavenging Ooze
+1 [ICE:54] Swords to Plowshares
+1 [KTK:156] Tuskguard Captain
+1 [7ED:67] Counterspell
+1 [RIX:158a] Hadana's Climb
+1 [CM2:10] Atraxa, Praetors' Voice
+1 [JOU:141] Solidarity of Heroes
+1 [ALA:229] Seaside Citadel
+1 [GTC:176] Master Biomancer
+1 [GRN:259] Watery Grave
+1 [GTC:177] Merciless Eviction
+1 [GRN:258] Temple Garden
+1 [RNA:251] Hallowed Fountain
+SB: 1 [CM2:13] Reyhan, Last of the Abzan
+SB: 1 [CM2:12] Ishai, Ojutai Dragonspeaker
+LAYOUT MAIN:(2,8)(CMC,true,57)|([AER:181])()([GTC:123],[M14:195],[SOM:47],[AER:140],[GTC:209])([KTK:2],[AVR:171],[M15:46],[MOR:122],[ORI:186],[BBD:11],[C18:34],[AER:122],[KTK:156],[DGM:115])([CM2:10],[RTR:152],[CM2:183],[GTC:162],[SCG:120],[XLN:59],[GTC:176],[BBD:12])([CM2:39],[CM2:157],[CSP:130],[M14:181],[C18:31],[ALA:140])([GTC:188])()([ALA:220],[CM2:235],[BBD:81],[RNA:246],[C18:240],[RIX:186],[CON:142],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[ISD:239],[RNA:248],[RNA:251],[RNA:261],[RNA:261],[RNA:261],[BBD:83],[MOR:147],[CM2:259],[KTK:238],[GRN:253],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[KTK:241],[BBD:84],[ALA:229],[RNA:262],[GRN:258],[SCG:143],[M11:229],[GRN:259])([KTK:133],[3ED:274],[THS:65],[ICE:54])([GRN:152],[7ED:67],[RTR:35],[M13:170],[9ED:297],[RAV:262],[GPT:155],[DIS:166],[JOU:141])([SOI:242],[DGM:59],[GRN:233],[C18:200],[M11:168],[RIX:158a],[DTK:191],[CHK:225])([FRF:8],[RIX:142],[NEM:117],[NPH:47])([JOU:145],[AVR:10],[SHM:248],[SOM:35])([GTC:177])([KTK:174])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,32)|([CM2:12])([CM2:13])

@@ -1,0 +1,69 @@
+1 [M15:36] Spectra Ward
+1 [M15:3] Avacyn, Guardian Angel
+1 [INV:228] Angelic Shield
+1 [BNG:7] Eidolon of Countless Battles
+1 [THS:14] Gift of Immortality
+1 [FRF:174] Tranquil Cove
+1 [M11:4] Angelic Arbiter
+1 [AVR:61] Infinite Reflection
+14 [GRN:261] Island
+21 [GRN:260] Plains
+1 [M11:5] Armored Ascension
+1 [TSP:70] Ophidian Eye
+1 [10E:124] Wall of Air
+1 [RTR:189] Righteous Authority
+1 [ZEN:224] Sejiri Refuge
+1 [GTC:14] Guardian of the Gateless
+1 [DGM:146] Azorius Guildgate
+1 [CMA:8] Curse of the Forsaken
+1 [GPT:28] Infiltrator's Magemark
+1 [M14:3] Angelic Accord
+1 [JOU:1] Aegis of the Gods
+1 [AVR:13] Commander's Authority
+1 [JOU:37] Dictate of Kruphix
+1 [ROE:37] Mammoth Umbra
+1 [M14:23] Indestructibility
+1 [DIS:170] Azorius Chancery
+1 [ARB:12] Sovereigns of Lost Alara
+1 [M14:8] Blessing
+1 [GPT:8] Guardian's Magemark
+1 [ARB:16] Wall of Denial
+1 [10E:33] Pariah
+1 [KLD:8] Captured by the Consulate
+1 [M15:83] Wall of Frost
+1 [ZEN:6] Celestial Mantle
+1 [SOI:246] Invocation of Saint Traft
+1 [SOI:32] Open the Armory
+1 [M15:41] Wall of Essence
+1 [FRF:23] Sage's Reverie
+1 [MBS:22] Corrupted Conscience
+1 [SOM:25] True Conviction
+1 [M12:219] Swiftfoot Boots
+1 [M11:58] Jace Beleren
+1 [SOM:22] Sunblast Angel
+1 [SHM:150] Steel of the Godhead
+1 [HOU:15] Hour of Revelation
+1 [CSP:1] Adarkar Valkyrie
+1 [3ED:274] Sol Ring
+1 [ROE:65] Eel Umbra
+1 [RTR:9] Ethereal Armor
+1 [DTK:62] Mirror Mockery
+1 [EMN:41] Sigarda's Aid
+1 [KTK:6] Dazzling Ramparts
+1 [M13:52] Fog Bank
+1 [ORI:31] Sigil of the Empty Throne
+1 [PLC:34] Auramancer's Guise
+1 [RAV:45] Dream Leash
+1 [MOR:8] Daily Regimen
+1 [PCA:6] Felidar Umbra
+1 [M14:41] Wall of Swords
+1 [DTK:59] Illusory Gains
+1 [DKA:5] Curse of Exhaustion
+1 [ORI:273] Aegis Angel
+1 [DTK:7] Battle Mastery
+1 [M10:40] Wall of Faith
+1 [ORI:230] Helm of the Gods
+1 [9ED:15] Gift of Estates
+SB: 1 [AVR:208] Bruna, Light of Alabaster
+LAYOUT MAIN:(2,8)(CMC,true,36)|()()([JOU:1],[M13:52],[M15:41])([BNG:7],[10E:124],[ARB:16],[M15:83])([M10:40],[M14:41])([M15:3],[KTK:6],[GTC:14])([CSP:1],[ORI:273],[ARB:12],[SOM:22])([M11:4])([DIS:170],[DGM:146],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:261],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[ZEN:224],[FRF:174])([MOR:8],[RTR:9],[ORI:230],[EMN:41],[3ED:274])([INV:228],[M14:8],[ROE:65],[PCA:6],[9ED:15],[DTK:62],[SOI:32],[M12:219])([DTK:7],[CMA:8],[JOU:37],[THS:14],[GPT:8],[GPT:28],[SOI:246],[M11:58],[TSP:70],[10E:33],[SHM:150])([M14:3],[M11:5],[PLC:34],[KLD:8],[DKA:5],[M14:23],[FRF:23])([AVR:13],[MBS:22],[RAV:45],[DTK:59],[ROE:37],[RTR:189],[ORI:31],[M15:36])([ZEN:6],[HOU:15],[AVR:61],[SOM:25])()
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AVR:208])

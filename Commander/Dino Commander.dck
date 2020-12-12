@@ -1,0 +1,72 @@
+1 [RAV:198] Congregation at Dawn
+13 [GRN:264] Forest
+1 [ALA:221] Bant Panorama
+10 [GRN:263] Mountain
+10 [GRN:260] Plains
+1 [XLN:13] Goring Ceratops
+1 [ALA:225] Jund Panorama
+1 [RIX:124] Cherished Hatchling
+1 [XLN:153] Otepec Huntmaster
+1 [FRF:138] Shamanic Revelation
+1 [RIX:126] Crested Herdcaller
+1 [M19:155] Sarkhan's Unsealing
+1 [DTK:186] Explosive Vegetation
+1 [ALA:216] Obelisk of Naya
+1 [AER:123] Rishkar's Expertise
+1 [XLN:227] Regisaur Alpha
+1 [RIX:28] Temple Altisaur
+1 [XLN:44] Wakening Sun's Avatar
+1 [M14:29] Planar Cleansing
+1 [XLN:181] Commune with Dinosaurs
+1 [XLN:184] Deathgorge Scavenger
+1 [XLN:140] Dinosaur Stampede
+1 [RIX:138] Knight of the Stampede
+1 [XLN:4] Bellowing Aegisaur
+1 [TSP:191] Aspect of Mongoose
+1 [M12:190] Rampant Growth
+1 [DGM:150] Gruul Guildgate
+1 [RIX:174] Zacama, Primal Calamity
+1 [RIX:30] Zetalpa, Primal Dawn
+1 [ODY:287] Decimate
+1 [GRN:243] Boros Guildgate
+1 [CHK:225] Kodama's Reach
+1 [M12:219] Swiftfoot Boots
+1 [XLN:135] Burning Sun's Avatar
+1 [M19:172] Colossal Dreadmaw
+1 [XLN:213] Verdant Sun's Avatar
+1 [M11:168] Cultivate
+1 [RIX:102] Forerunner of the Empire
+1 [RIX:100] Etali, Primal Storm
+1 [XLN:210] Thundering Spineback
+1 [DOM:164] Grow from the Ashes
+1 [NPH:103] Beast Within
+1 [RIX:18] Radiant Destiny
+1 [3ED:274] Sol Ring
+1 [RIX:148] Thrashing Brontodon
+1 [RIX:149] Thunderherd Migration
+1 [DGM:120] Zhur-Taa Druid
+1 [AER:109] Heroic Intervention
+1 [GTC:148] Boros Charm
+1 [XLN:209] Spike-Tailed Ceratops
+1 [GRN:125] Circuitous Route
+1 [GRN:255] Selesnya Guildgate
+1 [AER:162] Lifecrafter's Bestiary
+1 [XLN:201] Ranging Raptors
+1 [XLN:203] Ripjaw Raptor
+1 [SCG:143] Temple of the False God
+1 [NEM:117] Skyshroud Claim
+1 [XLN:165] Sunbird's Invocation
+1 [RIX:115] Silverclad Ferocidons
+1 [ICE:54] Swords to Plowshares
+1 [MOR:109] Taurean Mauler
+1 [M19:200] Runic Armasaur
+1 [RIX:153] Atzocan Seer
+1 [ISD:130] Blasphemous Act
+1 [RIX:97] Charging Tuskodon
+1 [XLN:19] Kinjalli's Sunwing
+1 [ALA:227] Naya Panorama
+1 [XLN:18] Kinjalli's Caller
+1 [CN2:69] Regal Behemoth
+SB: 1 [XLN:222] Gishath, Sun's Avatar
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([AER:162],[ALA:216],[3ED:274],[M12:219])([RIX:153],[XLN:4],[XLN:135],[RIX:97],[RIX:124],[M19:172],[RIX:126],[XLN:184],[RIX:100],[RIX:102],[XLN:13],[XLN:18],[XLN:19],[RIX:138],[XLN:153],[XLN:201],[CN2:69],[XLN:227],[XLN:203],[M19:200],[RIX:115],[XLN:209],[MOR:109],[RIX:28],[RIX:148],[XLN:210],[XLN:213],[XLN:44],[RIX:174],[RIX:30],[DGM:120])([TSP:191],[RIX:18],[M19:155],[XLN:165])([NPH:103],[GTC:148],[RAV:198],[XLN:140],[AER:109],[ICE:54])([ALA:221],[GRN:243],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[DGM:150],[ALA:225],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[ALA:227],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:255],[SCG:143])([ISD:130],[GRN:125],[XLN:181],[M11:168],[ODY:287],[DTK:186],[DOM:164],[CHK:225],[M14:29],[M12:190],[AER:123],[FRF:138],[NEM:117],[RIX:149])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([XLN:222])

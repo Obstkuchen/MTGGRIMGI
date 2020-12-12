@@ -1,0 +1,88 @@
+1 [C16:170] Tempt with Discovery
+1 [M11:229] Terramorphic Expanse
+1 [ALA:222] Crumbling Necropolis
+1 [FRF:173] Thornwood Falls
+1 [FRF:172] Swiftwater Cliffs
+1 [THS:200] Psychic Intrusion
+1 [FRF:170] Rugged Highlands
+1 [9ED:297] Fellwar Stone
+1 [FRF:138] Shamanic Revelation
+1 [DIS:180] Simic Growth Chamber
+1 [TSP:135] Sudden Spoiling
+1 [VMA:248] Dack's Duplicate
+1 [M15:100] In Garruk's Wake
+1 [DIS:178] Rakdos Carnarium
+1 [10E:129] Beacon of Unrest
+1 [CN2:38] Stunt Double
+1 [JOU:87] Worst Fears
+1 [AVR:166] Zealous Conscripts
+1 [DTK:220] Dragonlord Silumgar
+1 [AER:123] Rishkar's Expertise
+4 [RNA:263] Mountain
+1 [DGM:92] Progenitor Mimic
+5 [RNA:264] Forest
+1 [JOU:82] Silence the Believers
+5 [RNA:261] Island
+1 [CON:142] Exotic Orchard
+1 [HOU:165] Mirage Mirror
+4 [RNA:262] Swamp
+1 [GRN:233] Chromatic Lantern
+1 [CM2:235] Ash Barrens
+1 [ODY:326] Shadowblood Ridge
+1 [M11:217] Temple Bell
+1 [CMA:155] Thunderfoot Baloth
+1 [KTK:34] Clever Impersonator
+1 [C16:25] Stonehoof Chieftain
+1 [M13:199] Nicol Bolas, Planeswalker
+1 [KTK:211] Villainous Wealth
+1 [NPH:42] Phyrexian Metamorph
+1 [M12:190] Rampant Growth
+1 [ZEN:159] Beastmaster Ascension
+1 [CM2:1] The Mimeoplasm
+1 [KLD:62] Saheeli's Artistry
+1 [SOI:241] Altered Ego
+1 [C15:11] Gigantoplasm
+1 [C16:31] Grave Upheaval
+1 [SCG:64] Decree of Pain
+1 [THS:188] Ashiok, Nightmare Weaver
+1 [8ED:103] Steal Artifact
+1 [CMA:141] Restore
+1 [10E:83] Evacuation
+1 [OGW:147] Zendikar Resurgent
+1 [M13:145] Reverberate
+1 [3ED:274] Sol Ring
+1 [M19:255] Rupture Spire
+1 [M14:111] Rise of the Dark Realms
+1 [ONS:71] Blatant Thievery
+1 [RIX:186] Evolving Wilds
+1 [DIS:110] Experiment Kraj
+1 [CM2:46] Minds Aglow
+1 [M10:78] Twincast
+1 [GTC:146] Biovisionary
+1 [PLC:35] Body Double
+1 [RAV:202] Dimir Doppelganger
+1 [C18:240] Command Tower
+1 [M13:68] Spelltwine
+1 [M14:47] Clone
+1 [GTC:248] Thespian's Stage
+1 [C18:200] Commander's Sphere
+1 [C16:145] Collective Voyage
+1 [ZEN:61] Rite of Replication
+1 [KTK:238] Opulent Palace
+1 [FRF:169] Jungle Hollow
+1 [FRF:168] Dismal Backwater
+1 [KTK:59] Treasure Cruise
+1 [KTK:234] Frontier Bivouac
+1 [M10:190] Lurking Predators
+1 [PCA:24] Sakashima's Student
+1 [BNG:48] Perplexing Chimera
+1 [HOU:156] Refuse // Cooperate
+1 [ISD:212] Evil Twin
+1 [ALA:228] Savage Lands
+1 [KLD:84] Gonti, Lord of Luxury
+1 [GTC:176] Master Biomancer
+1 [GTC:174] Lazav, Dimir Mastermind
+SB: 1 [C16:37] Ludevic, Necro-Alchemist
+SB: 1 [CM2:11] Ikra Shidiqi, the Usurper
+LAYOUT MAIN:(2,10)(CMC,true,42)|()()()([GTC:146],[RAV:202])([SOI:241],[KTK:34],[M14:47],[VMA:248],[ISD:212],[C15:11],[KLD:84],[GTC:174],[GTC:176],[NPH:42],[PCA:24],[CN2:38])([PLC:35],[BNG:48],[CM2:1],[AVR:166])([DTK:220],[DIS:110],[DGM:92],[CMA:155])()([C16:25])()([CM2:235],[C18:240],[ALA:222],[FRF:168],[RIX:186],[CON:142],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[KTK:234],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[FRF:169],[RNA:263],[RNA:263],[RNA:263],[RNA:263],[KTK:238],[DIS:178],[FRF:170],[M19:255],[ALA:228],[ODY:326],[DIS:180],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[FRF:172],[M11:229],[GTC:248],[FRF:173])([C16:145],[CM2:46],[3ED:274])([9ED:297],[M12:190],[CMA:141],[M13:145],[M10:78])([THS:188],[ZEN:159],[GRN:233],[C18:200],[HOU:165],[TSP:135],[M11:217],[KTK:211])([ZEN:61],[JOU:82],[8ED:103],[C16:170])([10E:129],[10E:83],[THS:200],[FRF:138])([C16:31],[M10:190],[AER:123],[KLD:62],[M13:68])([ONS:71],[OGW:147],[HOU:156])([SCG:64],[M13:199],[KTK:59],[JOU:87])([M15:100],[M14:111])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,32)|([C16:37])([CM2:11])

@@ -1,0 +1,25 @@
+2 [ALA:185] Rafiq of the Many
+4 [GRN:264] Forest
+1 [ALA:155] Bant Charm
+2 [XLN:255] Glacial Fortress
+2 [GRN:261] Island
+2 [GRN:260] Plains
+4 [XLN:257] Sunpetal Grove
+2 [M11:168] Cultivate
+2 [ARB:67] Dauntless Escort
+4 [ARB:12] Sovereigns of Lost Alara
+1 [ARB:126] Finest Hour
+4 [9ED:100] Storm Crow
+4 [DOM:240] Hinterland Harbor
+4 [M12:165] Birds of Paradise
+2 [ROE:3] Eldrazi Conscription
+3 [ROE:86] See Beyond
+2 [RIX:186] Evolving Wilds
+2 [ZEN:168] Lotus Cobra
+3 [ARB:75] Qasali Pridemage
+3 [WWK:99] Explore
+2 [M12:12] Day of Judgment
+4 [ALA:229] Seaside Citadel
+1 [ALA:9] Elspeth, Knight-Errant
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,57)|([M12:165],[M12:165],[M12:165],[M12:165],[ARB:67],[ARB:67],[ZEN:168],[ZEN:168],[ARB:75],[ARB:75],[ARB:75],[ALA:185],[ALA:185],[ARB:12],[ARB:12],[ARB:12],[ARB:12],[9ED:100],[9ED:100],[9ED:100],[9ED:100])([ROE:3],[ROE:3])([ARB:126])([ALA:155])([RIX:186],[RIX:186],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[XLN:255],[XLN:255],[DOM:240],[DOM:240],[DOM:240],[DOM:240],[GRN:261],[GRN:261],[GRN:260],[GRN:260],[ALA:229],[ALA:229],[ALA:229],[ALA:229],[XLN:257],[XLN:257],[XLN:257],[XLN:257])([ALA:9])([M11:168],[M11:168],[M12:12],[M12:12],[WWK:99],[WWK:99],[WWK:99],[ROE:86],[ROE:86],[ROE:86])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,32)|

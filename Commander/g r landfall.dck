@@ -1,0 +1,77 @@
+1 [KLD:163] Nissa, Vital Force
+1 [M11:229] Terramorphic Expanse
+1 [PLS:111] Hull Breach
+1 [FRF:170] Rugged Highlands
+1 [THS:209] Xenagos, the Reveler
+1 [DOM:183] Sylvan Awakening
+1 [STH:135] Horn of Greed
+1 [HOU:129] Ramunap Excavator
+1 [GPT:150] Gruul Signet
+1 [SOI:233] Tireless Tracker
+1 [DTK:186] Explosive Vegetation
+1 [AER:123] Rishkar's Expertise
+1 [SOI:235] Ulvenwald Hydra
+1 [BFZ:197] Undergrowth Champion
+1 [BFZ:153] Retreat to Valakut
+5 [RNA:263] Mountain
+1 [BFZ:158] Tunneling Geopede
+1 [BFZ:235] Cinder Glade
+22 [RNA:264] Forest
+1 [BFZ:233] Blighted Woodland
+1 [GPT:158] Gruul Turf
+1 [ORI:219] Zendikar Incarnate
+1 [BFZ:217] Omnath, Locus of Rage
+1 [BFZ:139] Akoum Hellkite
+1 [RAV:189] Vinelasher Kudzu
+1 [M19:180] Elvish Rejuvenator
+1 [WWK:115] Terastodon
+1 [M13:159] Acidic Slime
+1 [OGW:131] Embodiment of Insight
+1 [BFZ:180] Nissa's Renewal
+1 [BNG:119] Courser of Kruphix
+1 [ZEN:157] Baloth Woodcrasher
+1 [GTC:191] Rubblehulk
+1 [M12:190] Rampant Growth
+1 [BFZ:181] Oran-Rief Hydra
+1 [DOM:157] Broken Bond
+1 [BFZ:144] Dragonmaster Outcast
+1 [WWK:96] Avenger of Zendikar
+1 [BFZ:186] Retreat to Kazandu
+1 [ODY:287] Decimate
+1 [CHK:239] Sakura-Tribe Elder
+1 [KLD:216] Ghirapur Orrery
+1 [THS:192] Destructive Revelry
+1 [CHK:225] Kodama's Reach
+1 [ORI:209] Zendikar's Roil
+1 [THS:224] Temple of Abandon
+1 [XLN:256] Rootbound Crag
+1 [OGW:107] Embodiment of Fury
+1 [M11:168] Cultivate
+1 [ZEN:165] Harrow
+1 [OGW:147] Zendikar Resurgent
+1 [ZEN:167] Khalni Heart Expedition
+1 [NPH:103] Beast Within
+1 [3ED:274] Sol Ring
+1 [ZEN:163] Grazing Gladehart
+1 [AER:109] Heroic Intervention
+1 [RIX:186] Evolving Wilds
+1 [GTC:147] Borborygmos Enraged
+1 [BFZ:176] Jaddi Offshoot
+1 [BFZ:211] Grove Rumbler
+1 [WWK:130] Seer's Sundial
+1 [AER:162] Lifecrafter's Bestiary
+1 [C18:240] Command Tower
+1 [RNA:259] Stomping Ground
+1 [SCG:143] Temple of the False God
+1 [ZEN:178] Rampaging Baloths
+1 [DOM:173] The Mending of Dominaria
+1 [M14:196] Sporemound
+1 [TSP:202] Krosan Grip
+1 [RIX:150] Wayward Swordtooth
+1 [ZEN:217] Kazandu Refuge
+1 [EMN:171] Splendid Reclamation
+1 [USG:250] Exploration
+1 [UDS:124] Yavimaya Elder
+SB: 1 [OGW:156] Mina and Denn, Wildborn
+LAYOUT MAIN:(2,8)(CARD_TYPE,true,57)|()([BNG:119])([M13:159],[BFZ:139],[WWK:96],[ZEN:157],[GTC:147],[BFZ:144],[M19:180],[OGW:107],[OGW:131],[ZEN:163],[BFZ:211],[BFZ:176],[BFZ:217],[BFZ:181],[ZEN:178],[HOU:129],[GTC:191],[CHK:239],[M14:196],[WWK:115],[SOI:233],[BFZ:158],[SOI:235],[BFZ:197],[RAV:189],[RIX:150],[UDS:124],[ORI:219])()()()()()([KLD:216],[GPT:150],[STH:135],[AER:162],[WWK:130],[3ED:274])()()([USG:250],[ZEN:167],[BFZ:186],[BFZ:153],[DOM:173],[OGW:147],[ORI:209])([NPH:103],[THS:192],[ZEN:165],[AER:109],[TSP:202])([BFZ:233],[BFZ:235],[C18:240],[RIX:186],[GPT:158],[ZEN:217],[XLN:256],[FRF:170],[RNA:259],[THS:224],[SCG:143],[M11:229],[RNA:263],[RNA:263],[RNA:263],[RNA:263],[RNA:263],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264],[RNA:264])([KLD:163],[THS:209])([DOM:157],[M11:168],[ODY:287],[DTK:186],[PLS:111],[CHK:225],[BFZ:180],[M12:190],[AER:123],[EMN:171],[DOM:183])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([OGW:156])

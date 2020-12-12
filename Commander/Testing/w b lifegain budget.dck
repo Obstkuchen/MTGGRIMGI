@@ -1,0 +1,81 @@
+1 [ONS:312] Barren Moor
+1 [HOU:171] Desert of the Glorified
+1 [FUT:172] New Benalia
+1 [BFZ:107] Defiant Bloodlord
+1 [M19:5] Ajani's Pridemate
+1 [AKH:8] Cast Out
+1 [RNA:228] Revival // Revenge
+1 [DGM:109] Tithe Drinker
+1 [M15:6] Congregate
+1 [9ED:131] Final Punishment
+1 [M19:235] Fountain of Renewal
+1 [GPT:155] Orzhov Signet
+10 [RNA:260] Plains
+1 [CN2:76] Knights of the Black Rose
+1 [DST:159] Well of Lost Dreams
+1 [BFZ:26] Felidar Sovereign
+1 [GTC:201] Treasury Thrull
+1 [RIX:82] Ravenous Chupacabra
+13 [RNA:262] Swamp
+1 [MBS:53] Sangromancer
+1 [CM2:235] Ash Barrens
+1 [RNA:236] Orzhov Locket
+1 [MBS:51] Phyrexian Rager
+1 [APC:95] Death Grasp
+1 [KLD:2] Aerial Responder
+1 [NPH:158] Soul Conduit
+1 [M13:112] Vampire Nighthawk
+1 [USG:318] Worn Powerstone
+1 [DGM:27] Pontiff of Blight
+1 [CN2:44] Marchesa's Decree
+1 [C17:3] Curse of Vitality
+1 [BNG:69] Fated Return
+1 [M14:209] Elixir of Immortality
+1 [RIX:70] Dusk Legion Zealot
+1 [HOU:174] Desert of the True
+1 [BFZ:223] Hedron Archive
+1 [CN2:48] Thorn of the Black Rose
+1 [XLN:33] Sanguine Sacrament
+1 [M12:219] Swiftfoot Boots
+1 [RNA:247] Gateway Plaza
+1 [NPH:144] Mindcrank
+1 [M19:250] Forsaken Sanctuary
+1 [C17:56] Path of Ancestry
+1 [M19:255] Rupture Spire
+1 [M14:112] Sanguine Bond
+1 [RIX:186] Evolving Wilds
+1 [KTK:8] End Hostilities
+1 [5DN:55] Night's Whisper
+1 [DOM:244] Memorial to Glory
+1 [RIX:184] Traveler's Amulet
+1 [BFZ:210] Drana's Emissary
+1 [ORI:245] Caves of Koilos
+1 [AKH:112] Trespasser's Curse
+1 [CN2:18] Palace Jailer
+1 [GTC:81] Thrull Parasite
+1 [THS:89] Gray Merchant of Asphodel
+1 [C17:60] Fell the Mighty
+1 [ORI:118] Shadows of the Past
+1 [CM2:259] Opal Palace
+1 [C18:200] Commander's Sphere
+1 [DOM:39] Urza's Ruinous Blast
+1 [KLD:192] Aetherflux Reservoir
+1 [10E:335] Mind Stone
+1 [GRN:4] Citywide Bust
+1 [CN2:21] Protector of the Crown
+1 [M12:81] Blood Seeker
+1 [GRN:82] Plaguecrafter
+1 [DGM:89] Obzedat's Aid
+1 [GRN:7] Crush Contraband
+1 [BFZ:121] Retreat to Hagra
+1 [NPH:25] Suture Priest
+1 [AKH:225] Bontu's Monument
+1 [ORI:114] Read the Bones
+1 [KLD:84] Gonti, Lord of Luxury
+1 [RNA:252] Orzhov Guildgate
+1 [BFZ:126] Zulaport Cutthroat
+1 [RIX:90] Vona's Hunger
+1 [BFZ:123] Ruinous Path
+SB: 1 [KLD:183] Kambal, Consul of Allocation
+LAYOUT MAIN:(2,9)(CMC,true,57)|()([GTC:81])([M19:5],[M12:81],[RIX:70],[NPH:25],[DGM:109],[BFZ:126])([KLD:2],[BFZ:210],[MBS:51],[GRN:82],[M13:112])([KLD:84],[CN2:18],[RIX:82],[MBS:53],[CN2:48])([THS:89],[CN2:76])([BFZ:26],[DGM:27],[CN2:21],[GTC:201])([BFZ:107])()([CM2:235],[ONS:312],[ORI:245],[HOU:171],[HOU:174],[RIX:186],[M19:250],[RNA:247],[DOM:244],[FUT:172],[CM2:259],[RNA:252],[C17:56],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[M19:255],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262],[RNA:262])([M14:209],[M19:235],[RIX:184])([APC:95],[10E:335],[NPH:144],[5DN:55],[GPT:155],[XLN:33],[ORI:118],[M12:219],[AKH:112])([AKH:225],[GRN:4],[C18:200],[C17:3],[RNA:236],[ORI:114],[BFZ:121],[BFZ:123],[RIX:90],[USG:318])([KLD:192],[AKH:8],[M15:6],[GRN:7],[BFZ:223],[CN2:44],[DST:159])([KTK:8],[C17:60],[9ED:131],[DGM:89],[M14:112],[DOM:39])([NPH:158])([BNG:69])([RNA:228])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([KLD:183])

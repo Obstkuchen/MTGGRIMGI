@@ -1,0 +1,16 @@
+4 [SOI:1] Always Watching
+6 [GRN:263] Mountain
+4 [KLD:188] Veteran Motorist
+4 [KLD:178] Depala, Pilot Exemplar
+10 [GRN:260] Plains
+3 [KLD:32] Toolcraft Exemplar
+4 [KLD:2] Aerial Responder
+4 [AER:4] Aethergeode Miner
+4 [SOI:12] Declaration in Stone
+4 [AER:22] Solemn Recruit
+4 [KLD:246] Inspiring Vantage
+2 [AER:153] Heart of Kiran
+4 [AER:164] Metallic Mimic
+3 [KLD:117] Harnessed Lightning
+LAYOUT MAIN:(2,4)(EDH_POWER_LEVEL,true,57)|([KLD:2],[KLD:2],[KLD:2],[KLD:2],[AER:22],[AER:22],[AER:22],[AER:22],[KLD:32],[KLD:32],[KLD:32])([KLD:188],[KLD:188],[KLD:188],[KLD:188])([AER:4],[AER:4],[AER:4],[AER:4])([KLD:178],[KLD:178],[KLD:178],[KLD:178],[AER:164],[AER:164],[AER:164],[AER:164])([SOI:1],[SOI:1],[SOI:1],[SOI:1],[KLD:117],[KLD:117],[KLD:117],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260])()()([SOI:12],[SOI:12],[SOI:12],[SOI:12],[AER:153],[AER:153],[KLD:246],[KLD:246],[KLD:246],[KLD:246])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,32)|
