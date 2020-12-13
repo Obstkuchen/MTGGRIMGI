@@ -1,0 +1,96 @@
+1 [WAR:184*] Ajani, the Greathearted
+1 [NPH:2] Apostle's Blessing
+1 [ISD:170] Avacyn's Pilgrim
+1 [BFZ:233] Blighted Woodland
+1 [RNA:245] Blood Crypt
+1 [DTK:88] Blood-Chin Fanatic
+1 [DTK:89] Blood-Chin Rager
+1 [KTK:230] Bloodstained Mire
+1 [MMQ:61] Brainstorm
+1 [KTK:5] Brave the Sands
+1 [RNA:246] Breeding Pool
+1 [THS:213] Burnished Hart
+1 [DGM:61] Carnage Gladiator
+1 [KTK:169] Chief of the Edge
+1 [KTK:170] Chief of the Scale
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [SOM:116] Copperhorn Scout
+1 [M21:177] Cultivate
+1 [FRF:66] Dark Deal
+1 [BFZ:76] Dispel
+1 [DTK:221] Dromoka's Command
+1 [ORI:173] Dwynen's Elite
+1 [DST:21] Echoing Truth
+1 [M15:173] Elvish Mystic
+1 [PLC:145] Essence Warden
+1 [5DN:86] Eternal Witness
+1 [CON:142] Exotic Orchard
+1 [DKA:87] Faithless Looting
+1 [M13:170] Farseek
+1 [M21:19] Feat of Resistance
+1 [FRF:99] Flamerush Rider
+1 [ORI:98] Fleshbag Marauder
+1 [KTK:234] Frontier Bivouac
+1 [ICE:244] Fyndhorn Elves
+1 [DOM:194] Garna, the Bloodflame
+1 [EMN:203] Geier Reach Sanitarium
+1 [RTR:164] Golgari Charm
+1 [RNA:251] Hallowed Fountain
+1 [EMN:161] Hamlet Captain
+1 [ZEN:165] Harrow
+1 [DTK:22] Herald of Dromoka
+1 [WAR:164*] Jiang Yanggu, Wildcrafter
+1 [CHK:225] Kodama's Reach
+1 [TSP:202] Krosan Grip
+1 [TMP:142] Living Death
+1 [ARB:92] Maelstrom Pulse
+1 [FRF:18] Mardu Woe-Reaper
+1 [AVR:66] Mass Appeal
+1 [FRF:76] Merciless Executioner
+1 [BNG:127] Mortal's Resolve
+1 [ZNC:135] Myriad Landscape
+1 [KTK:236] Mystic Monastery
+1 [ELD:58] Mystical Dispute
+1 [5ED:316] Nature's Lore
+1 [KTK:237] Nomad Outpost
+1 [RTR:131] Oak Street Innkeeper
+1 [AKH:233] Oketra's Monument
+1 [KTK:238] Opulent Palace
+1 [CHK:37] Otherworldly Journey
+1 [GRN:253] Overgrown Tomb
+1 [M12:73] Ponder
+1 [KTK:83] Raiders' Spoils
+1 [RAV:63] Remand
+1 [RNA:201] Rhythm of the Wild
+1 [GTC:224] Rubblebelt Raiders
+1 [GRN:254] Sacred Foundry
+1 [KTK:241] Sandsteppe Citadel
+1 [KTK:22] Seeker of the Way
+1 [DOM:204] Shanna, Sisay's Legacy
+3 [CSP:155] Snow-Covered Forest
+2 [CSP:152] Snow-Covered Island
+2 [CSP:154] Snow-Covered Mountain
+2 [CSP:151] Snow-Covered Plains
+2 [CSP:153] Snow-Covered Swamp
+1 [DOM:179] Song of Freyalise
+1 [ZNC:83] Springbloom Druid
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+1 [M12:219] Swiftfoot Boots
+1 [THS:180] Sylvan Caryatid
+1 [GRN:258] Temple Garden
+1 [ME3:135] Three Visits
+1 [XLN:258] Unclaimed Territory
+1 [DIS:99] Utopia Sprawl
+1 [FRF:28] Valorous Stance
+1 [NPH:48] Vapor Snag
+1 [M20:198] Veil of Summer
+1 [GRN:259] Watery Grave
+1 [KTK:248] Windswept Heath
+1 [9ED:283] Wood Elves
+1 [KTK:249] Wooded Foothills
+1 [FRF:148] Yasova Dragonclaw
+SB: 1 [BBD:62] Najeela, the Blade-Blossom
+LAYOUT MAIN:(2,7)(EDH_POWER_LEVEL,true,57)|([ISD:170],[DGM:61],[KTK:169],[KTK:170],[M15:173],[ICE:244],[EMN:161],[DTK:22])()()([RTR:131],[THS:180])([DTK:88],[DTK:89],[THS:213],[ORI:173],[PLC:145],[5DN:86],[DOM:194],[FRF:18],[KTK:22],[ZNC:83])([SOM:116],[FRF:99],[ORI:98],[FRF:76],[GTC:224],[DOM:204],[FRF:148])([9ED:283])([RNA:245],[MMQ:61],[RNA:246],[8ED:322],[ELD:333],[DST:21],[CON:142],[KTK:234],[RNA:251],[BNG:127],[KTK:236],[KTK:237],[KTK:238],[GRN:253],[M12:73],[KTK:83],[GRN:254],[KTK:241],[CSP:155],[CSP:155],[CSP:155],[CSP:152],[CSP:152],[CSP:154],[CSP:154],[CSP:151],[CSP:151],[CSP:153],[CSP:153],[GRN:257],[RNA:259],[GRN:258],[XLN:258],[DIS:99],[NPH:48],[GRN:259])([M21:177],[BFZ:76],[CHK:225],[TSP:202],[ARB:92],[RAV:63],[FRF:28])([RNA:201])([M12:219],[M20:198])([NPH:2],[BFZ:233],[DTK:221],[M21:19],[ZNC:135],[CHK:37])([WAR:184*],[KTK:5],[FRF:66],[DKA:87],[EMN:203],[RTR:164],[ZEN:165],[WAR:164*],[TMP:142],[AVR:66],[ELD:58],[AKH:233],[DOM:179])([KTK:230],[M13:170],[5ED:316],[ME3:135],[KTK:248],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([BBD:62])

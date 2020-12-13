@@ -1,0 +1,81 @@
+1 [AER:1] Aerial Modification
+1 [KLD:2] Aerial Responder
+1 [AER:2] Aeronaut Admiral
+1 [M19:2] Aethershield Artificer
+1 [KLD:195] Aradara Express
+1 [GTC:143] Aurelia, the Warleader
+1 [KLD:196] Ballista Charger
+1 [ORI:244] Battlefield Forge
+1 [KLD:198] Bomat Bazaar Barge
+1 [GTC:148] Boros Charm
+1 [RAV:275] Boros Garrison
+1 [GRN:243] Boros Guildgate
+1 [RAV:255] Boros Signet
+1 [KLD:7] Built to Last
+1 [M12:224] Buried Ruin
+1 [KLD:200] Chief of the Foundry
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [AER:146] Consulate Dreadnought
+1 [KLD:203] Cultivator's Caravan
+1 [AER:149] Daredevil Dragster
+1 [KLD:206] Demolition Stomper
+1 [NPH:7] Dispatch
+1 [EVE:137] Duergar Hedge-Mage
+1 [EVE:138] Duergar Mine-Captain
+1 [ELD:243] Dwarven Mine
+1 [ODY:186] Dwarven Recruiter
+1 [IKO:247] Evolving Wilds
+1 [KLD:13] Fairgrounds Warden
+1 [KLD:214] Fleetwheel Cruiser
+1 [KLD:215] Foundry Inspector
+1 [KLD:15] Fumigate
+1 [KLD:16] Gearshift Ace
+1 [MH1:11] Generous Gift
+1 [C19:41] Gerrard, Weatherlight Hero
+1 [AER:153] Heart of Kiran
+1 [KLD:246] Inspiring Vantage
+1 [KLD:247] Inventors' Fair
+1 [NPH:128] Jor Kadeen, the Prevailer
+1 [WAR:1*] Karn, the Great Creator
+1 [M21:27] Mangara, the Diplomat
+1 [KLD:21] Master Trinketeer
+1 [WAR:138] Mizzium Tank
+1 [AER:165] Mobile Garrison
+7 [ZNR:275] Mountain
+1 [KLD:225] Ovalchase Dragster
+1 [WAR:24] Parhelion II
+1 [AER:170] Peacewalker Colossus
+1 [AER:91] Pia's Revolution
+16 [ZNR:266] Plains
+1 [KLD:25] Refurbish
+1 [KLD:230] Renegade Freighter
+1 [AER:134] Renegade Wheelsmith
+1 [AER:21] Restoration Specialist
+1 [GRN:254] Sacred Foundry
+1 [AER:99] Siege Modification
+1 [KLD:234] Skysovereign, Consul Flagship
+1 [RNA:22] Smothering Tithe
+1 [KLD:235] Smuggler's Copter
+1 [SUM:274] Sol Ring
+1 [AER:22] Solemn Recruit
+1 [KLD:132] Speedway Fanatic
+1 [AER:24] Sram's Expertise
+1 [AER:23] Sram, Senior Edificer
+1 [KLD:135] Start Your Engines
+1 [ICE:54] Swords to Plowshares
+1 [MH1:230] Talisman of Conviction
+1 [M21:256] Temple of Triumph
+1 [M11:229] Terramorphic Expanse
+1 [THB:239] Thundering Chariot
+1 [KLD:32] Toolcraft Exemplar
+1 [WAR:2*] Ugin, the Ineffable
+1 [AER:179] Untethered Express
+1 [KLD:188] Veteran Motorist
+1 [DOM:237] Weatherlight
+1 [M21:259] Wind-Scarred Crag
+1 [10E:61] Wrath of God
+1 [XLN:234] Conqueror's Galleon
+SB: 1 [KLD:178] Depala, Pilot Exemplar
+LAYOUT MAIN:(2,7)(EDH_POWER_LEVEL,true,57)|([KLD:2],[AER:2],[M19:2],[KLD:200],[EVE:138],[KLD:16],[NPH:128],[AER:134],[AER:22],[KLD:132],[KLD:32])([EVE:137])([KLD:13])([KLD:188])([C19:41],[AER:21],[AER:23])([GTC:143],[KLD:215],[M21:27],[KLD:21])([ODY:186])([AER:1],[ORI:244],[GTC:148],[RAV:275],[GRN:243],[RAV:255],[KLD:7],[ELD:333],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[GRN:254],[AER:99],[KLD:135],[MH1:230],[M21:256],[M21:259])()([NPH:7],[ICE:54])([KLD:196],[KLD:198],[AER:146],[KLD:203],[KLD:214],[MH1:11],[AER:165],[KLD:225],[WAR:24],[AER:170],[KLD:230],[KLD:234],[KLD:235],[THB:239],[AER:179],[DOM:237],[10E:61],[XLN:234])([KLD:195],[M12:224],[AER:149],[IKO:247],[WAR:138],[KLD:25],[M11:229])([DOM:239],[KLD:206],[ELD:243],[KLD:15],[AER:153],[KLD:246],[WAR:1*],[AER:91],[RNA:22],[SUM:274],[AER:24],[WAR:2*])([KLD:247])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([KLD:178])
