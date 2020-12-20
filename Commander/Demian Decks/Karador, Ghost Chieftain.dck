@@ -1,0 +1,85 @@
+1 [ONS:123] Accursed Centaur
+1 [DGM:121] Alive // Well
+1 [SOI:1] Always Watching
+1 [SOI:242] Anguished Unmaking
+1 [JUD:106] Battlefield Scrounger
+1 [BFZ:233] Blighted Woodland
+1 [M21:244] Blossoming Sands
+1 [THS:153] Bow of Nylea
+1 [RTR:146] Call of the Conclave
+1 [BFZ:234] Canopy Vista
+1 [THS:154] Centaur Battlemaster
+1 [TOR:122] Centaur Chieftain
+1 [ODY:316] Centaur Garden
+1 [ONS:251] Centaur Glade
+1 [RTR:148] Centaur Healer
+1 [FUT:143] Centaur Omenreader
+1 [JUD:109] Centaur Rootcaster
+1 [RAV:244] Centaur Safeguard
+1 [RTR:118] Centaur's Herald
+1 [THS:190] Chronicler of Heroes
+1 [USG:243] Citanul Centaurs
+1 [CMR:306] Commander's Sphere
+1 [BNG:119] Courser of Kruphix
+1 [RTR:154] Coursers' Accord
+1 [ONS:133] Cover of Darkness
+1 [AVR:173] Descendants' Path
+1 [RAV:159] Dowsing Shaman
+1 [ORI:174] Elemental Bond
+1 [IKO:247] Evolving Wilds
+1 [BNG:121] Fated Intervention
+1 [DOM:214] Forebear's Blade
+15 [ZNR:278] Forest
+1 [M19:251] Foul Orchard
+1 [GPT:86] Ghor-Clan Savage
+1 [DGM:139] Golgari Cluestone
+1 [RTR:165] Grisly Salvage
+1 [DOM:164] Grow from the Ashes
+1 [RTR:217] Growing Ranks
+1 [ORI:180] Herald of the Pantheon
+1 [JMP:469] Herald's Horn
+1 [BNG:124] Hunter's Prowess
+1 [10E:270] Hurricane
+1 [M15:100] In Garruk's Wake
+1 [MIR:222] Jolrael's Centaur
+1 [M21:247] Jungle Hollow
+1 [THS:21] Lagonna-Band Elder
+1 [JOU:14] Lagonna-Band Trailblazer
+1 [M20:180] Loaming Shaman
+1 [M19:190] Naturalize
+1 [THS:165] Nessian Courser
+1 [THS:167] Nylea's Disciple
+1 [GRN:253] Overgrown Tomb
+1 [M12:186] Overrun
+1 [BNG:132] Peregrination
+1 [JUD:127] Phantom Centaur
+1 [BNG:133] Pheres-Band Raiders
+1 [JOU:134] Pheres-Band Thunderhoof
+1 [BNG:134] Pheres-Band Tromper
+1 [JOU:135] Pheres-Band Warchief
+3 [ZNR:266] Plains
+1 [10E:286*] Primal Rage
+1 [MH1:244] Prismatic Vista
+1 [DGM:93] Putrefy
+1 [BNG:154] Reap What Is Sown
+1 [ORI:116] Returned Centaur
+1 [KTK:241] Sandsteppe Citadel
+1 [GTC:131] Scab-Clan Charger
+1 [DGM:144] Selesnya Cluestone
+1 [GRN:255] Selesnya Guildgate
+1 [RTR:233] Selesnya Keyrune
+1 [TOR:138] Seton's Scout
+1 [SUM:274] Sol Ring
+1 [ODY:271] Spellbane Centaur
+1 [PZ2:35] Stonehoof Chieftain
+2 [ZNR:272] Swamp
+1 [ORI:240] Sword of the Animist
+1 [BNG:142] Swordwise Centaur
+1 [GRN:258] Temple Garden
+1 [M21:253] Temple of Malady
+1 [THB:249] Unknown Shores
+1 [KTK:210] Utter End
+1 [KTK:248] Windswept Heath
+SB: 1 [CMR:521] Karador, Ghost Chieftain
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ONS:123],[DGM:121],[SOI:1],[SOI:242],[JUD:106],[BFZ:233],[M21:244],[THS:153],[RTR:146],[BFZ:234],[THS:154],[TOR:122],[ODY:316],[ONS:251],[RTR:148],[FUT:143],[JUD:109],[RAV:244],[RTR:118],[THS:190],[USG:243],[CMR:306],[BNG:119],[RTR:154],[ONS:133],[AVR:173],[RAV:159],[ORI:174],[IKO:247],[BNG:121],[DOM:214],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[M19:251],[GPT:86],[DGM:139],[RTR:165],[DOM:164],[RTR:217],[ORI:180],[JMP:469],[BNG:124],[10E:270],[M15:100],[MIR:222],[M21:247],[THS:21],[JOU:14],[M20:180],[M19:190],[THS:165],[THS:167],[GRN:253],[M12:186],[BNG:132],[JUD:127],[BNG:133],[JOU:134],[BNG:134],[JOU:135],[ZNR:266],[ZNR:266],[ZNR:266],[10E:286*],[MH1:244],[DGM:93],[BNG:154],[ORI:116],[KTK:241],[GTC:131],[DGM:144],[GRN:255],[RTR:233],[TOR:138],[SUM:274],[ODY:271],[PZ2:35],[ZNR:272],[ZNR:272],[ORI:240],[BNG:142],[GRN:258],[M21:253],[THB:249],[KTK:210],[KTK:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,0)|([CMR:521])
