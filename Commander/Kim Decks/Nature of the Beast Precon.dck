@@ -1,0 +1,89 @@
+NAME:Omegalul
+1 [AVR:5] Archangel
+1 [WWK:96] Avenger of Zendikar
+1 [ZEN:157] Baloth Woodcrasher
+1 [ARB:65] Behemoth Sledge
+1 [GTC:148] Boros Charm
+1 [RAV:275] Boros Garrison
+1 [GRN:243] Boros Guildgate
+1 [ELD:333] Command Tower
+1 [ONS:314] Contested Cliffs
+1 [USG:179] Crater Hellion
+1 [M21:177] Cultivate
+1 [C13:105] Curse of Chaos
+1 [IMA:159] Curse of Predation
+1 [CMA:8] Curse of the Forsaken
+1 [MB1:68] Darksteel Mutation
+1 [PLC:126] Deadwood Treefolk
+1 [USG:320] Drifting Meadow
+1 [M12:207] Druidic Satchel
+1 [ALA:129] Drumhunter
+1 [SCG:12] Eternal Dragon
+1 [IKO:247] Evolving Wilds
+1 [TSB:92] Fiery Justice
+1 [M12:131] Fireball
+1 [INV:246] Fires of Yavimaya
+8 [ZNR:278] Forest
+1 [ONS:317] Forgotten Cave
+1 [C13:108] From the Ashes
+1 [C13:191] Gahiji, Honored One
+1 [ZEN:163] Grazing Gladehart
+1 [RNA:249] Gruul Guildgate
+1 [PLC:149] Harmonize
+1 [J17:4] Homeward Path
+1 [PLS:111] Hull Breach
+1 [ALA:226] Jungle Shrine
+1 [WWK:138] Khalni Garden
+1 [ONS:272] Krosan Tusker
+1 [SCG:123] Krosan Warchief
+1 [PLC:104] Magus of the Arena
+1 [ALA:179] Mayael the Anima
+1 [ZEN:169] Mold Shambler
+1 [LRW:270] Mosswort Bridge
+5 [ZNR:275] Mountain
+1 [C13:18] Mystic Barrier
+1 [ALA:180] Naya Charm
+1 [ALA:227] Naya Panorama
+1 [C13:157] Naya Soulbeast
+1 [FUT:172] New Benalia
+1 [MRD:126] One Dozen Eyes
+1 [CMR:352] Opal Palace
+4 [ZNR:266] Plains
+1 [AVR:190] Rain of Thorns
+1 [ALA:186] Rakeclaw Gargantuan
+1 [ZEN:178] Rampaging Baloths
+1 [ONS:278] Ravenous Baloth
+1 [CMA:141] Restore
+1 [M19:255] Rupture Spire
+1 [GPT:127] Savage Twister
+1 [ONS:324] Secluded Steppe
+1 [WWK:130] Seer's Sundial
+1 [GRN:255] Selesnya Guildgate
+1 [RAV:281] Selesnya Sanctuary
+1 [ONS:232] Slice and Dice
+1 [XLN:207] Slice in Twain
+1 [USG:327] Slippery Karst
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [MB1:1338] Spawning Grounds
+1 [ARB:60] Spellbreaker Behemoth
+1 [MOR:105] Spitebellows
+1 [SCG:128] Sprouting Vines
+1 [RTR:106] Street Spasm
+1 [M12:219] Swiftfoot Boots
+1 [SCG:143] Temple of the False God
+1 [MB1:1350] Tempt with Discovery
+1 [C13:126] Terra Ravager
+1 [MRD:267] Tower of Fortunes
+1 [ONS:326] Tranquil Thicket
+1 [ARB:61] Valley Rannet
+1 [RAV:285] Vitu-Ghazi, the City-Tree
+1 [LRW:275] Vivid Crag
+1 [MMQ:224] War Cadence
+1 [M12:160] Warstorm Surge
+1 [ALA:122] Where Ancients Tread
+1 [C13:133] Witch Hunt
+1 [10E:61] Wrath of God
+SB: 1 [C13:198] Marath, Will of the Wild
+LAYOUT MAIN:(2,5)(COLOR,true,57)|()([WWK:96],[ZEN:157],[PLC:126],[ALA:129],[ZEN:163],[ONS:272],[SCG:123],[ZEN:169],[C13:157],[ZEN:178],[ONS:278])([USG:179],[PLC:104],[MOR:105],[C13:126])([AVR:5],[SCG:12])([C13:191],[ALA:179],[ALA:186],[ARB:60],[ARB:61])([RAV:275],[GRN:243],[ELD:333],[ONS:314],[USG:320],[M12:207],[IKO:247],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ONS:317],[RNA:249],[J17:4],[ALA:226],[WWK:138],[LRW:270],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ALA:227],[FUT:172],[CMR:352],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[M19:255],[ONS:324],[WWK:130],[GRN:255],[RAV:281],[USG:327],[USG:328],[SUM:274],[M12:219],[SCG:143],[MRD:267],[ONS:326],[RAV:285],[LRW:275])([M21:177],[IMA:159],[PLC:149],[MRD:126],[AVR:190],[CMA:141],[XLN:207],[MB1:1338],[SCG:128],[MB1:1350])([C13:105],[M12:131],[C13:108],[ONS:232],[RTR:106],[MMQ:224],[M12:160],[ALA:122],[C13:133])([CMA:8],[MB1:68],[C13:18],[10E:61])([ARB:65],[GTC:148],[TSB:92],[INV:246],[PLS:111],[ALA:180],[GPT:127])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,32)|([C13:198])
